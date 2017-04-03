@@ -2,6 +2,7 @@
 
 import argparse
 import nltk
+import sklearn
 
 def processTrainingData(filename):
     parsedData = []
@@ -23,6 +24,9 @@ def processTrainingData(filename):
         parsedLine = {
           "id": splitLine[0],
           "text": splitLine[1],
+          "topic": splitLine[3],
+          "polarity": splitLine[2],
+          "genre": splitLine[4]
         }
         print(parsedLine)
         parsedData.append(parsedLine);
