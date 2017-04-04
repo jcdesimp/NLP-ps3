@@ -54,6 +54,17 @@ def tagPOS(parsedData):
   for d in parsedData:
     d["pos_tags"] = pos_tag(d["tokens"])
 
+def preprocess(raw_data):
+  """Perform all preprocessing tasks"""
+  parsedData = parseDataFile(raw_data)
+  # attach tokens
+  tokenizeText(parsedData)
+  # attach POS tags
+  tagPOS(parsedData)
+
+  return parsedData
+
+
 def main():
   """Run main program execution."""
   # configure program arguments
@@ -63,11 +74,7 @@ def main():
   args = parser.parse_args()
 
   if args.train:
-    parsedTrainingData = parseDataFile(args.train)
-    # attach tokens
-    tokenizeText(parsedTrainingData)
-    # attach POS tags
-    tagPOS(parsedTrainingData)
+    parsedTrainingData = preprocess(args.train)
 
     # extract features for genre classifier
     genre_features = genre.extract_features(parsedTrainingData)
@@ -78,24 +85,21 @@ def main():
 
   elif args.test:
 
-    parsedTestData = parseDataFile(args.test)
-    # attach tokens
-    tokenizeText(parsedTestData)
-    # attach POS tags
-    tagPOS(parsedTestData)
+    parsedTestData = preprocess(args.test)
     # extract features for genre classifier
     genre_features = genre.extract_features(parsedTestData)
     genre_labels = genre.extract_labels(parsedTestData)
 
     genre_predictions = genre.test_model(genre_features, genre_labels)
+    # todo other predictions
 
     predictions = []
     for i, e in enumerate(parsedTestData):
       single_result = []
       single_result.append(e["id"])
       single_result.append(e["text"])
-      single_result.append(e["truth"]["polarity"]) # print out TRUTH for now
-      single_result.append(e["truth"]["topic"]) # print out TRUTH for now
+      single_result.append(e["truth"]["polarity"]) # TODO printing out TRUTH for now
+      single_result.append(e["truth"]["topic"]) # TODO printing out TRUTH for now
       single_result.append(genre_predictions[i])
       
       predictions.append("\t".join(single_result) + "\t")
