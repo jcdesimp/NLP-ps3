@@ -13,7 +13,7 @@ Help output is as follows
 
 ```
 $ python3 main.py 
-usage: main.py [-h] [--train TRAINING_DATA] [--test TEST_DATA]
+usage: main.py [-h] [--train TRAINING_DATA] [--test TEST_DATA] [-m]
 
 Train or test classifiers.
 
@@ -23,7 +23,8 @@ optional arguments:
                         Train the classifiers with the given training data
                         file.
   --test TEST_DATA      Test the classifiers with the given training data
-                        file.
+                        file. Prints out raw prediction data by default
+  -m                    Print basic test metrics instead of raw predictions.
 ```
 
 # Project Structure

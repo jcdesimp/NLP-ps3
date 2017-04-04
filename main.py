@@ -5,6 +5,7 @@ import sklearn
 
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
+import numpy
 
 from classifiers import genre, polarity, event_type
 
@@ -70,7 +71,8 @@ def main():
   # configure program arguments
   parser = argparse.ArgumentParser(description='Train or test classifiers.')
   parser.add_argument('--train', required=False, metavar='TRAINING_DATA', help='Train the classifiers with the given training data file.')
-  parser.add_argument('--test', required=False, metavar='TEST_DATA', help='Test the classifiers with the given training data file.')
+  parser.add_argument('--test', required=False, metavar='TEST_DATA', help='Test the classifiers with the given training data file. Prints out raw prediction data by default')
+  parser.add_argument('-m', required=False, action='store_true', help='Print basic test metrics instead of raw predictions.')
   args = parser.parse_args()
 
   if args.train:
@@ -94,16 +96,20 @@ def main():
     # todo other predictions
 
     predictions = []
-    for i, e in enumerate(parsedTestData):
-      single_result = []
-      single_result.append(e["id"])
-      single_result.append(e["text"])
-      single_result.append(e["truth"]["polarity"]) # TODO printing out TRUTH for now
-      single_result.append(e["truth"]["topic"]) # TODO printing out TRUTH for now
-      single_result.append(genre_predictions[i])
-      
-      predictions.append("\t".join(single_result) + "\t")
-    print("\n".join(predictions))
+    if args.m:
+      genre_accuracy = numpy.mean([xi==yi for xi in genre_predictions for yi in genre_labels])
+      print("Genre Accuracy: " + str(genre_accuracy))
+    else: # print raw predictions
+      for i, e in enumerate(parsedTestData):
+        single_result = []
+        single_result.append(e["id"])
+        single_result.append(e["text"])
+        single_result.append(e["truth"]["polarity"]) # TODO printing out TRUTH for now
+        single_result.append(e["truth"]["topic"]) # TODO printing out TRUTH for now
+        single_result.append(genre_predictions[i])
+        
+        predictions.append("\t".join(single_result) + "\t")
+      print("\n".join(predictions))
       
   else:
     parser.print_help()
