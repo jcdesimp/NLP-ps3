@@ -16,7 +16,7 @@ def extract_features(trainingData):
   Assumes tokenization and pos tagging has been done"""
   feature_list = []
   for data_entry in trainingData:
-    entry_feature_dict = defaultdict(lambda : 0)
+    entry_feature_dict = defaultdict(int)
     # entry_feature_dict = dict()
     # entry_feature_dict["token_count"] = len(data_entry["tokens"])
     for t in data_entry["tokens"]:
@@ -38,7 +38,6 @@ def train_model(x, y):
   """
   feat_vector = DictVectorizer().fit(x)
   X_train = feat_vector.transform(x)
-
   classifier = LinearSVC().fit(X_train, y)
 
   # save the trained model to disk

@@ -81,7 +81,6 @@ def main():
     # extract features for genre classifier
     genre_features = genre.extract_features(parsedTrainingData)
     genre_labels = genre.extract_labels(parsedTrainingData)
-
     genre.train_model(genre_features, genre_labels)
 
 
@@ -94,10 +93,9 @@ def main():
 
     genre_predictions = genre.test_model(genre_features, genre_labels)
     # todo other predictions
-
     predictions = []
     if args.m:
-      genre_accuracy = numpy.mean([xi==yi for xi in genre_predictions for yi in genre_labels])
+      genre_accuracy = numpy.mean([genre_predictions[i]==genre_labels[i] for i in range(len(genre_predictions))])
       print("Genre Accuracy: " + str(genre_accuracy))
     else: # print raw predictions
       for i, e in enumerate(parsedTestData):
