@@ -22,9 +22,8 @@ def extract_features(trainingData):
     for t in data_entry["tokens"]:
       # feature : does text contain word
       entry_feature_dict["has_word (" + t.lower() + ")"] = 1
-      # entry_feature_dict["wc (" + t.lower() + ")"] += 1
-      if t.lower() == 'i':
-        entry_feature_dict["contains I"] += 1
+      entry_feature_dict["wc (" + t.lower() + ")"] += 1
+
     feature_list.append(entry_feature_dict)
   return feature_list
 
