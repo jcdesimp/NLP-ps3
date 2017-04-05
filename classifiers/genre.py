@@ -45,7 +45,7 @@ def train_model(x, y):
   # save the fitted feature vector
   joblib.dump(feat_vector, FEAT_VECTOR_FILE) 
 
-def test_model(x, y):
+def test_model(x):
   """test the classifier model
   x : the feature list
   y : the label list
