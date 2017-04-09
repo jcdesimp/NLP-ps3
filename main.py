@@ -81,6 +81,12 @@ def tagPOS(parsedData):
   for d in parsedData:
     d["pos_tags"] = pos_tag(d["tokens"])
 
+def tagNER(parsedData):
+  """Generate NER tags for tokens and set "ner_tags" property on parsed data
+  assumes pos tagging has been done and as on the 'pos_tags' property of the parsedData entries"""
+  for d in parsedData:
+    d["ner_tags"] = ne_chunk(d["pos_tags"], binary=True)
+
 def preprocess(raw_data):
   """Perform all preprocessing tasks"""
   parsedData = parseDataFile(raw_data)
@@ -90,6 +96,8 @@ def preprocess(raw_data):
   tagPOS(parsedData)
   # attach lemmas
   lemmatizeText(parsedData)
+  #attach NER tags
+  tagNER(parsedData)
 
   return parsedData
 
@@ -155,7 +163,7 @@ def main():
         single_result.append(e["id"])
         single_result.append(e["text"])
         single_result.append(polarity_predictions[i])
-        single_result.append(e["truth"]["topic"]) # TODO printing out TRUTH for now
+        single_result.append(topic_predictions[i]) # TODO printing out TRUTH for now
         single_result.append(genre_predictions[i])
 
         predictions.append("\t".join(single_result) + "\t")
