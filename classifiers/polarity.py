@@ -1,10 +1,9 @@
 from sklearn.feature_extraction import DictVectorizer
 from collections import defaultdict
-import numpy as np
+# import numpy as np
 from sklearn.svm import LinearSVC
 # from sklearn.naive_bayes import MultinomialNB
 from sklearn.externals import joblib
-from textblob import TextBlob
 from math import fsum
 import os.path
 

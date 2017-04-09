@@ -163,7 +163,7 @@ def main():
         single_result.append(e["id"])
         single_result.append(e["text"])
         single_result.append(polarity_predictions[i])
-        single_result.append(topic_predictions[i]) # TODO printing out TRUTH for now
+        single_result.append(topic_predictions[i])
         single_result.append(genre_predictions[i])
 
         predictions.append("\t".join(single_result) + "\t")
