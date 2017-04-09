@@ -57,7 +57,7 @@ def tagPOS(parsedData):
     d["pos_tags"] = pos_tag(d["tokens"])
 
 def tagNER(parsedData):
-  """Generate POS tags for tokens and set "ner_tags" property on parsed data
+  """Generate NER tags for tokens and set "ner_tags" property on parsed data
   assumes pos tagging has been done and as on the 'pos_tags' property of the parsedData entries"""
   for d in parsedData:
     d["ner_tags"] = ne_chunk(d["pos_tags"], binary=True)
