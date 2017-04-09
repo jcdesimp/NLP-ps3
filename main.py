@@ -6,6 +6,7 @@ import sklearn
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
+from nltk.chunk import ne_chunk
 import numpy
 
 from classifiers import genre, polarity, event_type
@@ -139,7 +140,16 @@ def main():
     genre_predictions = genre.test_model(genre_features)
 
     # extract features for topic classifier
-    filterdNotNoneData = [x for x in parsedTestData if x["truth"]["topic"] != "NONE"]
+    # filterdNotNoneData = [x for x in parsedTestData if x["truth"]["topic"] != "NONE"]
+    filterdNotNoneData = []
+    filteredIndices = []
+    for i, e in enumerate(parsedTestData):
+      if e["truth"]["topic"] != "NONE":
+        filterdNotNoneData.append(e)
+      else:
+        # print(e["truth"]["topic"] + " is none!!!! " + str(i))
+        filteredIndices.append(i)
+
     topic_features = event_type.extract_features(filterdNotNoneData)
     topic_labels = event_type.extract_labels(filterdNotNoneData)
     topic_predictions = event_type.test_model(topic_features)
@@ -158,14 +168,18 @@ def main():
       print("Topic Accuracy: " + str(topic_accuracy))
       print("Polarity Accuracy: " + str(polarity_accuracy))
     else: # print raw predictions
+      skipped_filtered = 0
       for i, e in enumerate(parsedTestData):
         single_result = []
         single_result.append(e["id"])
         single_result.append(e["text"])
         single_result.append(polarity_predictions[i])
-        single_result.append(topic_predictions[i])
+        if e["truth"]["topic"] == "NONE":
+          single_result.append("NONE")
+          skipped_filtered += 1
+        else:
+          single_result.append(topic_predictions[i - skipped_filtered])
         single_result.append(genre_predictions[i])
-
         predictions.append("\t".join(single_result) + "\t")
       print("\n".join(predictions))
 
