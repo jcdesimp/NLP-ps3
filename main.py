@@ -4,6 +4,7 @@ import argparse
 import sklearn
 
 from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 import numpy
 
@@ -14,7 +15,7 @@ def parseDataFile(filename):
   # print("parsing data from file...")
   # parsed data will be a list of
   # dictionaries in the format:
-  # 
+  #
   # {
   #   "id": "ID",
   #   "text": "The Text...",
@@ -42,11 +43,36 @@ def parseDataFile(filename):
     parsedData.append(parsedLine);
   return parsedData;
 
+def l_pos(pos):
+    if pos[0].lower() == 'n' or pos[0].lower() == 'v' or pos[0].lower() == 'r':
+          return pos[0].lower()
+    else:
+        return ''
+
+def lemmatize_with_pos(wnl, words):
+    lems = []
+    for t in words:
+        p = l_pos(t[1])
+        if p == '':
+            lems.append(wnl.lemmatize(t[0]))
+        else:
+            lems.append(wnl.lemmatize(t[0], p))
+    return lems
+
 def tokenizeText(parsedData):
   """Tokenize text and add "tokens" property to parsed data"""
   # print("tokenizing...")
   for d in parsedData:
     d["tokens"] = word_tokenize(d["text"])
+
+def lemmatizeText(parsedData):
+  """Lemmatize text and add "lemmas" property to parsed data"""
+  wnl = WordNetLemmatizer()
+  for d in parsedData:
+    pos = pos_tag(word_tokenize(d["text"].lower()))
+    lems = lemmatize_with_pos(wnl, pos)
+    # d["tokens"] = word_tokenize(d["text"])
+    d["lemmas"] = lems
 
 def tagPOS(parsedData):
   """Generate POS tags for tokens and set "pos_tags" property on parsed data
@@ -62,6 +88,8 @@ def preprocess(raw_data):
   tokenizeText(parsedData)
   # attach POS tags
   tagPOS(parsedData)
+  # attach lemmas
+  lemmatizeText(parsedData)
 
   return parsedData
 
@@ -89,6 +117,10 @@ def main():
     topic_labels = event_type.extract_labels(filterdNotNoneData)
     event_type.train_model(topic_features, topic_labels)
 
+    # extract features for genre classifier
+    polarity_features = polarity.extract_features(parsedTrainingData)
+    polarity_labels = polarity.extract_labels(parsedTrainingData)
+    polarity.train_model(polarity_features, polarity_labels)
 
   elif args.test:
 
@@ -104,25 +136,32 @@ def main():
     topic_labels = event_type.extract_labels(filterdNotNoneData)
     topic_predictions = event_type.test_model(topic_features)
 
+    polarity_features = polarity.extract_features(parsedTestData)
+    polarity_labels = polarity.extract_labels(parsedTestData)
+    polarity_predictions = polarity.test_model(polarity_features)
+
     # todo other predictions
     predictions = []
     if args.m:
       genre_accuracy = numpy.mean([genre_predictions[i]==genre_labels[i] for i in range(len(genre_predictions))])
       topic_accuracy = numpy.mean([topic_predictions[i]==topic_labels[i] for i in range(len(topic_predictions))])
+      polarity_accuracy = numpy.mean([polarity_predictions[i]==polarity_labels[i] for i in range(len(polarity_predictions))])
       print("Genre Accuracy: " + str(genre_accuracy))
       print("Topic Accuracy: " + str(topic_accuracy))
+      print("Polarity Accuracy: " + str(polarity_accuracy))
     else: # print raw predictions
       for i, e in enumerate(parsedTestData):
         single_result = []
         single_result.append(e["id"])
         single_result.append(e["text"])
-        single_result.append(e["truth"]["polarity"]) # TODO printing out TRUTH for now
+        # single_result.append(e["truth"]["polarity"]) # TODO printing out TRUTH for now
+        single_result.append(polarity_predictions[i])
         single_result.append(e["truth"]["topic"]) # TODO printing out TRUTH for now
         single_result.append(genre_predictions[i])
-        
+
         predictions.append("\t".join(single_result) + "\t")
       print("\n".join(predictions))
-      
+
   else:
     parser.print_help()
 
