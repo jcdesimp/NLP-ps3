@@ -5,6 +5,7 @@ import sklearn
 
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
+from nltk.chunk import ne_chunk
 import numpy
 
 from classifiers import genre, polarity, event_type
@@ -55,6 +56,12 @@ def tagPOS(parsedData):
   for d in parsedData:
     d["pos_tags"] = pos_tag(d["tokens"])
 
+def tagNER(parsedData):
+  """Generate POS tags for tokens and set "ner_tags" property on parsed data
+  assumes pos tagging has been done and as on the 'pos_tags' property of the parsedData entries"""
+  for d in parsedData:
+    d["ner_tags"] = ne_chunk(d["pos_tags"], binary=True)
+
 def preprocess(raw_data):
   """Perform all preprocessing tasks"""
   parsedData = parseDataFile(raw_data)
@@ -62,7 +69,8 @@ def preprocess(raw_data):
   tokenizeText(parsedData)
   # attach POS tags
   tagPOS(parsedData)
-
+  #attach NER tags
+  tagNER(parsedData)
   return parsedData
 
 

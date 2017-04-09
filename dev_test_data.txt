@@ -1,0 +1,854 @@
+1710	Earlier we had visited the homes of Haim Nahman Bialik, a Russian-born poet and translator who helped make Hebrew the lingua franca of Israel, and a museum dedicated to the artist Nahum Gutman, who celebrated the young Jewish state in painting, both of which I found interesting.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+1711	This company charge me a restocking fee and still not given me my refund back.	NEGATIVE	NONE	GENRE_B	
+1712	If I'd been alone I would have been attacked, too.	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1713	"I was in jail in Russia for nine years because I wanted to reach Israel" he reminded them.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1714	But what really made it unwatchable was the direction.  	NEGATIVE	NONE	GENRE_B	
+1715	- They never brought a salad we asked for.	NEGATIVE	NONE	GENRE_B	
+1716	According to Ms. Kedia's account of the conversation, Ms. Sipperly suddenly said "I can't believe we're going to trial over what are minor differences'in the terms of a plea agreement."	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1717	I found this product to be waaay too big.	NEGATIVE	NONE	GENRE_B	
+1718	I don't go for fancy restaurants.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1719	She was quite disappointed although some blame needs to be placed at her door.	NEGATIVE	NONE	GENRE_B	
+1720	During a hike to Fat Man's Pass in April, I easily motored up that hill.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1721	It is ironic that I'm now being accused of human rights abuses.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1722	Then I will take the whole month off and do some more fishing and diving.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+1723	They have a really nice atmosphere.	POSITIVE	NONE	GENRE_B	
+1724	The best place to go for a tasty bowl of Pho!	POSITIVE	NONE	GENRE_B	
+1725	So there is no way for me to plug it in here in the US unless I go by a converter.	NEGATIVE	NONE	GENRE_B	
+1726	I was shocked because no signs indicate cash only.	NEGATIVE	NONE	GENRE_B	
+1727	Then I'll have a holiday to re-discover the desire for cycling.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+1728	"I got so mad because when I went to court to give evidence, the suspects laughed at me heartily as though whatever I was saying was nothing and would not be of any use for the case" she said.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1729	Jamie Foxx absolutely IS Ray Charles.  	POSITIVE	NONE	GENRE_B	
+1730	"It's fun, it's an adrenaline rush" he says "but I won't lie to you or sugarcoat it."	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+1731	As Johnson told civil rights leader Whitney M. Young Jr. on Nov. 24, 1963, "I got to get this funeral behind me."	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+1732	It was pretty gross!	NEGATIVE	NONE	GENRE_B	
+1733	I've seen soap operas more intelligent than this movie.  	NEGATIVE	NONE	GENRE_B	
+1734	It's a sad movie, but very good.  	POSITIVE	NONE	GENRE_B	
+1735	Last month, which now seems like a long time ago, we had a blues concert on post.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+1736	But I don't want to be misunderstood, a reversal is welcome.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+1737	Poor sound quality.	NEGATIVE	NONE	GENRE_B	
+1738	"Eleven armed police are stationed in my residence, and I understand that other leaders have also been placed under house arrest" Adhikari said	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1739	I'm unemployed and Saddam Hussein still has a job.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1740	In my backpack, I would put in a make-up kit because I always want to look my best.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1741	I didn't hurt myself in the college series.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1742	The shipping time was also very quick!	POSITIVE	NONE	GENRE_B	
+1743	"I declared the money to the finance ministry and paid taxes on it" Scharping said.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1744	The phone takes FOREVER to charge like 2 to 5 hours literally.	NEGATIVE	NONE	GENRE_B	
+1745	Voice Quality, Signal Strength, Dropped Calls.	NEGATIVE	NONE	GENRE_B	
+1746	Ironically I mostly find his films a total waste of time to watch.  	NEGATIVE	NONE	GENRE_B	
+1747	Not sure who was more lost - the flat characters or the audience, nearly half of whom walked out.  	NEGATIVE	NONE	GENRE_B	
+1748	I walked for a long while that first day, discovering old tram roads that seemed to snake all over the mountain.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1749	This was a poor remake of "My Best Friends Wedding".  	NEGATIVE	NONE	GENRE_B	
+1750	The writers were "smack on" and I think the best actors and actresses were a bonus to the show.These characters were so real.  	POSITIVE	NONE	GENRE_B	
+1751	I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.	NEGATIVE	NONE	GENRE_B	
+1752	Now I am getting angry and I want my damn pho.	NEGATIVE	NONE	GENRE_B	
+1753	I've got enough money for my needs.	POSITIVE	MONEY_ISSUE	GENRE_A	
+1754	About midway through our driving tour, I decided the best way to explore it would be by boat.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1755	I 'm here for you, I 'm not sick, we 'll go to the museum, we 'll go to the park.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+1756	Then we ride up into the high country, where we'll see wild horses, bighorn sheep, mountain lions and eagles.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+1757	Victor McLaglen was even bad, and Brian DonLevy was almost unrecognizable.  	NEGATIVE	NONE	GENRE_B	
+1758	Avoid, avoid, avoid!  	NEGATIVE	NONE	GENRE_B	
+1759	Waitress was sweet and funny.	POSITIVE	NONE	GENRE_B	
+1760	A film not easily forgotten.  	POSITIVE	NONE	GENRE_B	
+1761	It features an outlandish array of memorable, psychotic but lovable nuts.  	POSITIVE	NONE	GENRE_B	
+1762	The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.	POSITIVE	NONE	GENRE_B	
+1763	Very good food, great atmosphere.1	POSITIVE	NONE	GENRE_B	
+1764	The battery works great!	POSITIVE	NONE	GENRE_B	
+1765	I feel drowsy while riding on my bike and am more likely to have an accident.	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1766	I've had surgery, which has gone well.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+1767	From the Fujiya Hotel, we walked to the Miyanoshita Tozan Tetsudo, a mountain rail station, where we bought a one-way ticket for about  15 to the mountaintop.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1768	Makes it easier to keep up with my bluetooth when I'm not wearing it.	NEGATIVE	NONE	GENRE_B	
+1769	Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.	POSITIVE	NONE	GENRE_B	
+1770	No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts.	NEGATIVE	NONE	GENRE_B	
+1771	"I'm on a fixed income now and some disability" says the retired Verizon operator who suffered a stroke about the same time her husband passed away.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1772	"I arrested them and I left them with the local police because I didn't have transportation to take them back to Sihanoukville" the paper quoted the official as saying.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+1773	SALMON STREAM LAKE, Maine: by the time we had carried gear, food and clothing from our canoe past towering white pines to the camp and I had kindled a crackling blaze in the fireplace with the aid of birch bark stripped from a storm-dropped tree, the day was nearly done.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1774	Avoid this one if you can.	NEGATIVE	NONE	GENRE_B	
+1775	"I went to court with an order to show cause to get the animals returned to the Gimbels" Goodman said last week.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1776	I couldn't think of a better way to end the film, but a smile on my face, great way to wrap up an amazing film and trilogy!  	POSITIVE	NONE	GENRE_B	
+1777	To be honest with you, this is unbelievable nonsense and very foolish.  	NEGATIVE	NONE	GENRE_B	
+1778	Again, lame.  	NEGATIVE	NONE	GENRE_B	
+1779	A few friends of mine and I, we seized three assault tanks.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1780	There's nothing worse than a movie that leaves you feeling indifferent, with nothing to say but "OK, where shall we go to eat."	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+1781	I spotted elk, bear and wolf tracks in the sand.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1782	I just wanted to leave.	NEGATIVE	NONE	GENRE_B	
+1783	This allows the possibility of double booking for the same date and time after the first.	NEGATIVE	NONE	GENRE_B	
+1784	The tracfonewebsite is user friendly and makes it easy toactivate, etc.	POSITIVE	NONE	GENRE_B	
+1785	Juano Hernandez (an exceptional actor who played supporting roles in many films of the era) is a proud black man who is accused of murdering a white man in the South.  	POSITIVE	NONE	GENRE_B	
+1786	I was at this concert with a bunch of friends and we were being so goofy and doing the swim and other silly dances.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+1787	doesn't last long.	NEGATIVE	NONE	GENRE_B	
+1788	"If I gave up these evenings because I'm married, I would suppress something in myself, and that's unhealthy" he said.	NEUTRAL	PERSONAL_CARE	GENRE_A	
+1789	Do not waste your time.  	NEGATIVE	NONE	GENRE_B	
+1790	When we had a boat, during my husband's lifetime, I could run it while he fished, and once or twice I took it out on my own to cross the sound to the grocery store.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1791	I said no, because I was 10 minutes behind!	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1792	"I'm not worried about paying the bills" the soft-spoken Los Angeles Dodgers outfielder said.	POSITIVE	MONEY_ISSUE	GENRE_A	
+1793	I have been arrested and put into jail and police assaulted me.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1794	Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.	NEGATIVE	NONE	GENRE_B	
+1795	Made very sturdy.	POSITIVE	NONE	GENRE_B	
+1796	It was very popular when I was in the cinema, a good house and very good reactions and plenty of laughs.  	POSITIVE	NONE	GENRE_B	
+1797	Lajic, 28, was arrested at Amberg, near Nuremberg, after German police received notification of his name and date of birth from tribunal, but he told the tribunal as he was released:"I was not worried because I knew I was innocent."	POSITIVE	LEGAL_ISSUE	GENRE_A	
+1798	This movie is so mind-bendingly awful, it couldn't have even been created.  	NEGATIVE	NONE	GENRE_B	
+1799	An old guy in a bar in Las Vegas, N.M., still owes me money: I bet on the Lakers in game 2, he bet on the Pistons.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1800	I 'd get up at 5:30 every morning and hike about five miles in the mountains.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1801	We'd be better off if we'd committed a crime and gone to jail or been in a witness-protection program.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+1802	This item worked great, but it broke after 6 months of use.	NEGATIVE	NONE	GENRE_B	
+1803	It looked like a wonderful story.  	POSITIVE	NONE	GENRE_B	
+1804	I was looking for this headset for a long time and now that I've got it I couldn't be happier.	POSITIVE	NONE	GENRE_B	
+1805	"I received late payments while some people still owe me money" she says.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1806	For sushi on the Strip, this is the place to go.	POSITIVE	NONE	GENRE_B	
+1807	Back in town we made a short stop at the Heritage Junction Museum, whose eclectic, well cared for collection of community artifacts, displayed in one large room, includes logging equipment, sporting goods and household items.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+1808	Never got it!!!!!	NEGATIVE	NONE	GENRE_B	
+1809	Excellently produced by one of Sci-fi's best producers Scot Vandiver !  	POSITIVE	NONE	GENRE_B	
+1810	For the Golden Globes, I wore a slipdress that was kind of bare, and I wore my hair up.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1811	Excellent Phone.	POSITIVE	NONE	GENRE_B	
+1812	Seconds later, I was kneeling with my hands on my head in a police van crowded with arrested Belarussian opposition protestors.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1813	I was totally I wouldn't say "misquoted", "misinterpreted" would be the right word.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1814	A few months ago, my wife and I sat around my computer's 17-inch monitor while we watched a DVD of the movie "The Matrix".	POSITIVE	ATTENDING_EVENT	GENRE_A	
+1815	"I said that Islamic law should be revised, but I was misquoted as saying that the Koran should be revised" she said, adding that she is an atheist.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1816	Buttons are too small.	NEGATIVE	NONE	GENRE_B	
+1817	In a single morning of birdwatching during a winter season, I sighted quite a few species on Yoron Island.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1818	"I don't want to play with my health" Korda said.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1819	The best electronics of the available FM Transmitters.	POSITIVE	NONE	GENRE_B	
+1820	I want my money back.	NEGATIVE	NONE	GENRE_B	
+1821	It was not good.	NEGATIVE	NONE	GENRE_B	
+1822	We scrambled up to the top of a dune, and while our guide walked the entire way, I was so exhausted and out of breath I could barely stand.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1823	I'm tired of lying to you guys.	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+1824	But if you say no, I'm going to say yes.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+1825	This is my new fav Vegas buffet spot.	POSITIVE	NONE	GENRE_B	
+1826	Poor service, the waiter made me feel like I was stupid every time he came to the table.	NEGATIVE	NONE	GENRE_B	
+1827	But when someone strives for greatness and poetry, but delivers a muddled (and often ridiculous) story, a bunch of disparate scenes, pretentious dialogue... Then you get the worst kind of a movie that some other reviewer very accurately defined as "pretentious crap".  	NEGATIVE	NONE	GENRE_B	
+1828	Fantastic service here.	POSITIVE	NONE	GENRE_B	
+1829	I went to a dentist a year ago because I had a toothache.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1830	The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.	NEGATIVE	NONE	GENRE_B	
+1831	I think my actions and views are misinterpreted and misunderstood.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+1832	The only problem is I've got a dentist appointment Monday.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+1833	Now that I'm here in Kenya, I can live without the fear of my children being killed. 	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1834	Crust is not good.	NEGATIVE	NONE	GENRE_B	
+1835	Still on the message board Friday night, one note to Stinnett from 'Darlene' said "I was recommended to you: and have been unable to reach you by either phone or email".	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1836	The ambience is wonderful and there is music playing.	POSITIVE	NONE	GENRE_B	
+1837	The chains, which I'm no fan of, beat this place easily.	NEGATIVE	NONE	GENRE_B	
+1838	"Three days ago, because of an argument that my wife and I were involved in, I lost control" said Moon, a former quarterback for the Houston Oilers who now plays for the Minnesota Vikings.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1839	) Don't waste your time.  	NEGATIVE	NONE	GENRE_B	
+1840	"One time I cut myself and the veins spurted" she adds matter-of-factly, recalling a gash to her foot from broken glass.	NEGATIVE	 (FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1841	On Feb. 28, I went to court in my chronic battle to get the state to stop threatening me with jail for the crime of not earning as much money as my ex-wife thinks I should.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1842	The picture resolution is far below what other comparably-priced phones are offering today.	NEGATIVE	NONE	GENRE_B	
+1843	We have to wait until there is a hearing in court and then we will vigorously defend the reputation of our drug testing program.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1844	When a song could explain the emotions of the subjects better, such as when Jay Adams' unfortunate life was a subject of talk, the song Old Man by Neil Young was played, which evokes many emotions.  	POSITIVE	NONE	GENRE_B	
+1845	On our first day we bagged 37 birds, a fine take for five guns shooting walk-up.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1846	Give it a try, you will be happy you did.	POSITIVE	NONE	GENRE_B	
+1847	The cast of veteran actors are more than just a nostalgia trip.  	POSITIVE	NONE	GENRE_B	
+1848	"I was in a car accident last month and my arthritis is difficult" Golden said as she walked slowly past the security gates with the help of a walker.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1849	I am going fishing far into the sea off Sabah waters.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+1850	I totally and absolutely recommend this movie to anyone who likes good wholesome family movies because that is exactly what this is.  	POSITIVE	NONE	GENRE_B	
+1851	If you are Razr owner...you must have this!	POSITIVE	NONE	GENRE_B	
+1852	The concert sequences just sucked.  	NEGATIVE	NONE	GENRE_B	
+1853	Dee Snider just plain sucks.  	NEGATIVE	NONE	GENRE_B	
+1854	We had traveled downstream most of the night to Longview, Wash., where we again boarded buses for a 90-minute ride through forests and small towns to the mountain.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1855	In my discussion with the middle school students, I could tell that I was losing the argument.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1856	WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.	NEGATIVE	NONE	GENRE_B	
+1857	camera color balance is AWFUL.	NEGATIVE	NONE	GENRE_B	
+1858	The battery is unreliable as well as the service use antena.	NEGATIVE	NONE	GENRE_B	
+1859	Bluetooth does not work, phone locks up, screens just flash up and now it just makes calls randomly while in my pocket locked.	NEGATIVE	NONE	GENRE_B	
+1860	I had to go back in the hospital.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1861	It is very educational for children 1 to 8 years old.  	POSITIVE	NONE	GENRE_B	
+1862	The majority of the Logitech earbud headsets failed.	NEGATIVE	NONE	GENRE_B	
+1863	I brush my teeth twice a day with a fluoridated toothpaste and rinse my mouth with plain water after every meal.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1864	none of the new ones have ever quite worked properly.	NEGATIVE	NONE	GENRE_B	
+1865	I skipped a class to have it done, lying to my parents about having a cyst removed as I had to have follow-up check-ups.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1866	"For 18 months I was in jail" he said.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1867	Both of them were truly unbelievably good, and I am so glad we went back.	POSITIVE	NONE	GENRE_B	
+1868	I am doing everything I can to keep it off: healthier foods, more activity, returning to that place we call the gym.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1869	I posted more detailed comments under the grey or black phone, but i have the Fire Red and it's a great color!	POSITIVE	NONE	GENRE_B	
+1870	I lied about it all. 	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1871	The attempts at humor were pitiful and story is so awful it dosen't bear thinking about which basically involves a Vulcan stealing the Enterprise to find god (seriously) I just didn't care about any of this film and oh not to mention Uhura does a belly dance to distract male guards.  	NEGATIVE	NONE	GENRE_B	
+1872	"But as long as they're going to pay me retroactively so I can pay my mortgage and take care of my children, I don't mind" said the woman, who declined to give her name.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+1873	Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.	POSITIVE	NONE	GENRE_B	
+1874	My parents were initially worried that I would not be able to cope without a fixed income like in my previous jobs.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+1875	Nice blanket of moz over top but i feel like this was done to cover up the subpar food.	POSITIVE	NONE	GENRE_B	
+1876	I think that the Hong Kong officials have misunderstood me.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+1877	"Then, suddenly the flood ended and I was in another city" said Guldstrand, who found the boy at a Buddhist temple where survivors sought shelter.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1878	Even if we qualify I will go and look for a job. 	NEUTRAL	MONEY_ISSUE	GENRE_A	
+1879	Del Taco is pretty nasty and should be avoided if possible.	NEGATIVE	NONE	GENRE_B	
+1880	I was convicted and sentenced by a depraved madman with an assault gun. 	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1881	Our server was super nice and checked on us many times.	POSITIVE	NONE	GENRE_B	
+1882	The problem I have is that they charge $11.99 for a sandwich that is no bigger than a Subway sub (which offers better and more amount of vegetables).	NEGATIVE	NONE	GENRE_B	
+1883	Before the Picasso Museum, I had visited Musee d'Orsay and its superb Impressionist collection.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+1884	The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.	NEGATIVE	NONE	GENRE_B	
+1885	I jumped onto the track but I was afraid I would hurt myself.	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1886	The performances are real and gripping, the crocdodile is extremely well done, indeed if the Black Water website is to be believed that's because they used real crocs and the swamp location is fabulous.  	POSITIVE	NONE	GENRE_B	
+1887	Great steak, great sides, great wine, amazing desserts.	POSITIVE	NONE	GENRE_B	
+1888	I don't think we'll be going back anytime soon.	NEGATIVE	NONE	GENRE_B	
+1889	"I am too easily misunderstood" Oh said.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1890	At another point, Geragos explained "I was trying to prevent a crime against my client."	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+1891	The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.	NEGATIVE	NONE	GENRE_B	
+1892	Deflated, we moved on to plan B: A Sunday morning ceremony followed by an afternoon brunch with 75-100 of our nearest and dearest.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+1893	In a most wonderful location lies a story of contrast.  	POSITIVE	NONE	GENRE_B	
+1894	I visited the newest Dimsum n' Dumplings branch at Robinson's Galleria to meet Prime Pacific Corp. Vice President Sandee Siytangco-Masigan, whose husband is the pioneering brains behind the restaurant.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+1895	Linda Cardellini is the only thing good in this film.  	POSITIVE	NONE	GENRE_B	
+1896	It has northern humour and positive about the community it represents.  	POSITIVE	NONE	GENRE_B	
+1897	"Now I'm unemployed and I'm worried I'll go back to the militants for financial reasons, because my aged father's pension is not enough" said Mohammed, who holds a degree in social work.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1898	I was suffering from depression, and maybe I should have gone to a doctor, but I didn't.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1899	Some years ago, on a walk of several days alone through a stretch of Ozark wilderness, I came upon the ruins of what must once have been considerable communities.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1900	I got my hair cut Saturday.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1901	"I was very healthy before and I could not believe I had stomach lymphoma" Mr Ko said, urging people to consult a doctor as soon as possible.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1902	Very much like going to a live concert, we get an extra zing out of seeing art first hand that we're dimly familiar with.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+1903	" With great sound effects, and impressive special effects, I can't recommend this movie enough.  	POSITIVE	NONE	GENRE_B	
+1904	We knew the inn had a health club but we were surprised at how large and well equipped it is, with a 75-foot indoor pool, whirlpool, steam room, sauna, treadmills, stationary bikes, ellipticals, an aerobics studio, and a weight room.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1905	That's an overall problem I have with diets in general: We may have lost weight, but have we achieved better health?	NEUTRAL	PERSONAL_CARE	GENRE_A	
+1906	Great phone.	POSITIVE	NONE	GENRE_B	
+1907	"Until we can safely enter the mine to thoroughly examine the site, we will not know what caused the Sago accident" Dye said.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+1908	I ordered the Lemon raspberry ice cocktail which was also incredible.	POSITIVE	NONE	GENRE_B	
+1909	I wanted to go to school and I wanted to go to Italy.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+1910	But I'm happy to be on the podium and to finish this Tour in good health despite the two crashes I had.	POSITIVE	PERSONAL_CARE	GENRE_A	
+1911	"It's difficult to see that he's able to play again when I still have a long way to go, and not just in hockey, but with my health" Moore said in Thursday's Denver Post.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1912	Easy to use.	POSITIVE	NONE	GENRE_B	
+1913	These are fabulous!	POSITIVE	NONE	GENRE_B	
+1914	Avoid this film at all costs.  	NEGATIVE	NONE	GENRE_B	
+1915	I don't spend more than five minutes a day in front of the bathroom mirror, sometimes not even long enough to comb my hair. 	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1916	"The houses I rent out were damaged, I had to spend my own money over about seven or eight months to renovate them" said 52-year-old Waranya Thongdee.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1917	"Most of us have days when we're concerned about our hair or weight" says Jamie Bliss, a 29-year-old recovering BDD patient who is now a therapist working with Sacker.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1918	"I have been so misunderstood" Marcos declared during a wide-ranging interview inside her two-storey penthouse apartment overlooking one of Manila's wealthiest suburbs.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1919	"I worked as a teacher for 40 years and I don't have enough money to pay for my funeral" he said.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1920	I promise they won't disappoint.	POSITIVE	NONE	GENRE_B	
+1921	It's the one movie that never ceases to interest me, simply because it keeps me alert, as I try to attempt to decipher it's meanings.  	POSITIVE	NONE	GENRE_B	
+1922	The iGo chargers and tips are really great.	POSITIVE	NONE	GENRE_B	
+1923	This is not movie-making.  	NEGATIVE	NONE	GENRE_B	
+1924	We wave it for a while, and then we go to barbecues and watch fireworks.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+1925	I was not happy with this item.	NEGATIVE	NONE	GENRE_B	
+1926	I lied about a plane flight I never took, about sleeping in a car I never rented, about a landmark on the highway I had never been to. 	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1927	I am not guilty of their deaths.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+1928	And considering the two of us left there very full and happy for about $20, you just can't go wrong.	POSITIVE	NONE	GENRE_B	
+1929	My husband and I fight a lot.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1930	Did I mention I had a dentist appointment scheduled for two days later?	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+1931	It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.  	POSITIVE	NONE	GENRE_B	
+1932	Before the disclosure of the notorious August 2002 memorandum condoning torture that was featured at the Gonzales hearings, I traveled to the Guantanamo Bay prison last February as part of a homeland security congressional delegation.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1933	"I think there would be landslides, possibly a tsunami" McCue said.	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1934	As always the evening was wonderful and the food delicious!	POSITIVE	NONE	GENRE_B	
+1935	Today I will say no: I can't, it's impossible.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+1936	A great touch.	POSITIVE	NONE	GENRE_B	
+1937	I'll give this film 10 out of 10!  	POSITIVE	NONE	GENRE_B	
+1938	Asked about what she will do next, she said: "I'm looking for a job because I'm jobless."	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1939	My 18-year-old daughter discovered the recent Lou Reed concert in a local arts newspaper and insisted that we attend.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+1940	Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good.	POSITIVE	NONE	GENRE_B	
+1941	"I feel guilty of killing my$ four children" the 33-year-old woman, who was unidentified according to Austrian custom, told the court.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1942	Very disappointed in AccessoryOne.	NEGATIVE	NONE	GENRE_B	
+1943	There was a warm feeling with the service and I felt like their guest for a special treat.	POSITIVE	NONE	GENRE_B	
+1944	"He wanted to go public in January, but I said no, we deal with it here" Blatter told reporters.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1945	"I said no" he wrote.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1946	The acting is beyond abysmal.  	NEGATIVE	NONE	GENRE_B	
+1947	And we could go to a movie!	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+1948	"Right after these concert dates I go in and have my right hip done" he says, referring to replacement surgery.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+1949	I mountain bike and hike off season to get in shape.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1950	"I am being tried by an illegal and illegitimate court" said Seselj, leader of Serbia's biggest political party, who is charged with crimes against.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1951	We have visited the site and we have not removed anything from the site of the blast.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1952	"I was misquoted probably because the reporter misunderstood me" he added.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1953	This time we actually camped on the very site of a glacial lake I saw four years ago.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1954	I go to the doctor or hospital of my choice, and my taxes pay all the bills.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1955	"I was fishing on the rocks and I saw her come around the back of the lighthouse" said local resident Dave Turner, who noted boats often sailed that direction as a short cut on the high tide.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1956	In particular the relationship between the bakery assistant and the waitress just didn't work for me at all.  	NEGATIVE	NONE	GENRE_B	
+1957	The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.	NEGATIVE	NONE	GENRE_B	
+1958	I had about two bites and refused to eat anymore.	NEGATIVE	NONE	GENRE_B	
+1959	In the past, most pedicures were done at home but somewhere along the way we lost the knowledge of the correct, healthy, safe way to achieve home nail care.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1960	"This new site is the only place where we know we can go and find the North Pacific right whale" Tynan said.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+1961	I have been to my dentist and have had my teeth filled and scaling done but the problem still persists.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+1962	I visited the park once with a guide and then again by myself, sitting on the hilltop and savoring the companionship of solitude that Thoreau valued so highly.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+1963	!I definitly recommend!!	POSITIVE	NONE	GENRE_B	
+1964	I was misquoted.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1965	there are so many problems i dont know where to start.  	NEGATIVE	NONE	GENRE_B	
+1966	I am very happy	POSITIVE	NONE	GENRE_B	
+1967	By the time the film ended, I not only disliked it, I despised it.  	NEGATIVE	NONE	GENRE_B	
+1968	Great Product.	POSITIVE	NONE	GENRE_B	
+1969	Talk about USELESS customer service.	NEGATIVE	NONE	GENRE_B	
+1970	Some misunderstood what I meant by democracy in my inauguration speech.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+1971	Left very frustrated.	NEGATIVE	NONE	GENRE_B	
+1972	My boyfriend tried the Mediterranean Chicken Salad and fell in love.	POSITIVE	NONE	GENRE_B	
+1973	Seated behind a bulletproof glass screen in a specially prepared U.N. court at The Hague, the Serb, Dusan Tadic, said "I did not take part in any of the crimes with which I am charged."	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+1974	I was scared, and I didn't really know how to handle it, so if you misquoted me, I just wouldn't talk to anybody, which made the whole joint mad. 	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+1975	I have been very satisfied with this cell phone from day one.	POSITIVE	NONE	GENRE_B	
+1976	Raw and sublimely moving.  	POSITIVE	NONE	GENRE_B	
+1977	Gave up trying to eat any of the crust (teeth still sore).	NEGATIVE	NONE	GENRE_B	
+1978	Non-linear narration thus many flashbacks and every part are articulated quite well.  	POSITIVE	NONE	GENRE_B	
+1979	Of course, the acting is blah.  	NEGATIVE	NONE	GENRE_B	
+1980	did not like at all.	NEGATIVE	NONE	GENRE_B	
+1981	"I just got out and I walked the streets in a blinding snowstorm" he said.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1982	Great it was new packaged nice works good, no problems and it came in less time then I expected!!!!	POSITIVE	NONE	GENRE_B	
+1983	Worse, there's an incredibly weak sub-plot thrown in that follows a little band of latter-day Mansonites as they go after a reporter who's working on a story on the anniversary of the killings.  	NEGATIVE	NONE	GENRE_B	
+1984	I would highly recommend this.	POSITIVE	NONE	GENRE_B	
+1985	It is easy to turn on and off when you are in the car and the volume controls are quite accessable.	POSITIVE	NONE	GENRE_B	
+1986	So I had to take the battery out of the phone put it all back together and then restart it.	NEGATIVE	NONE	GENRE_B	
+1987	"If the instances of my country accuse me of a crime, I am ready to stand before a court" Karadzic was quoted as saying.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+1988	Then I walked half a block to the corner of Main Street, where former L.A. jazz writer Jim Liska runs an ambitious little Italian restaurant named Adagio.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1989	"I would not have to face the humiliation and social stigma of being unemployed if Cathay had followed the law" Li told the Post.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+1990	John Wayne did an incredible job for being so young in the movie industry.  	POSITIVE	NONE	GENRE_B	
+1991	Another woman told AFP:"I was raped together with my two daughters."	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+1992	Phone is sturdy as all nokia bar phones are.	POSITIVE	NONE	GENRE_B	
+1993	We used to be harassed about the way we cut our hair or whether we wore a Western-looking T-shirt.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+1994	But last month I walked at dusk through a miraculously transformed Haven Acres.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+1995	So to encourage them, we'd all do things together, like all go to the circus, or out to Worlds of Fun, or camping.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+1996	Don't waste your time here.	NEGATIVE	NONE	GENRE_B	
+1997	Despite criticism from fundamentalist preachers "I attended Randy's funeral to demonstrate San Francisco's sorrow" Jordan says, adding, "I'm open and receptive".	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+1998	It is an excellent drama, an excellent thriller, and an excellent film.  	POSITIVE	NONE	GENRE_B	
+1999	I was fired last year and thought that was my last stop.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2000	I got to enjoy the seafood salad, with a fabulous vinegrette.	POSITIVE	NONE	GENRE_B	
+2001	The characters were all funny and had the peculiarity of not having a true lead character.  	POSITIVE	NONE	GENRE_B	
+2002	Reviving, we walked across the lawn in the moonlight, past the clay courts that were so bright under the moon we could have played tennis, and down to the lake lapping against the shore in the wind.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2003	This is a VERY average phone with bad battery life that operates on a weak network.	NEGATIVE	NONE	GENRE_B	
+2004	OK, I lied about the prison.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2005	The wontons were thin, not thick and chewy, almost melt in your mouth.	POSITIVE	NONE	GENRE_B	
+2006	"I rushed back to my house after I heard about the fire" said Sukkur Ahmed, a rickshaw driver who earns 4 a day.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2007	"If I go into bankruptcy, a court can renegotiate the terms on my vacation condo but is prohibited from renegotiating the terms on my home" said Durbin, whose plan is backed by labor and civil rights groups, the American Association of Retired People and credit unions.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2008	You can't relate with them, hell you barely can understand them.  	NEGATIVE	NONE	GENRE_B	
+2009	Which is how I ended up huddled in the shadow of a 20,500-foot mountain one afternoon last summer, shivering around a table with seven other trekkers as we tried to scarf down plates of cold fish before the snow and wind tore them from our hands.	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2010	I said no, I don't know any girls.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2011	Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo.	POSITIVE	NONE	GENRE_B	
+2012	"If a guy owes me money and I want my money, that doesn't make me an extortionist" said Provenzano, sitting in the home office of his spacious Bergen County home, a copy of Elia Kazan's On What Makes A Director by his side.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2013	But other than that the movie seemed to drag and the heroes didn't really work for their freedom.  	NEGATIVE	NONE	GENRE_B	
+2014	The steak and the shrimp are in my opinion the best entrees at GC.	POSITIVE	NONE	GENRE_B	
+2015	I've been working for eight years and I always owe money.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2016	"The last time I was in court" President Nelson Mandela said Tuesday with a historical flourish that seemed fitting "was to hear whether or not I was going to be sentenced to death."	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2017	The acting is like watching wooden puppets moving around and reading from a book, that's how bad it is.  	NEGATIVE	NONE	GENRE_B	
+2018	"I lost a bet on that" Dowd said.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2019	We were allowed to go to Yugoslavia for a holiday but once we were there we just put on our rucksacks, walked out of the hotel, hitch hiked on foot and by train through Italy and Switzerland to get to Germany.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2020	Going into the future, we're never going to get another concert from him.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+2021	I was not even questioned by the Palestinian police, who treated me well.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+2022	"On Dec. 6 we went to a wedding together, and he and I had a long discussion with his mom" Steward said.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2023	I'm putting on eye shadow colors, eyeliner colors, blush colors and lipstick colors that not only need to flatter the skin tone but also coordinate with what they're wearing.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2024	"I took a shower, then I was brushing my hair sitting in the chair and David told me to come to sit down by him in the bed" Jewell said.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2025	Great pork sandwich.	POSITIVE	NONE	GENRE_B	
+2026	I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.	NEGATIVE	NONE	GENRE_B	
+2027	This one works and was priced right.	POSITIVE	NONE	GENRE_B	
+2028	Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.	NEGATIVE	NONE	GENRE_B	
+2029	"I can go into any restaurant in Europe and order smuggled caviar" he said.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+2030	"I think they owe me money" said Dolan.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2031	I'll never know how much I have lost.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2032	I had a pretty satifying experience.	POSITIVE	NONE	GENRE_B	
+2033	"Tomorrow I will be going to her concert" Mandela said Wednesday.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2034	Very disappointing.  	NEGATIVE	NONE	GENRE_B	
+2035	I also am so fortunate to stay healthy and do the things that I do.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2036	Not tasty and the texture was just nasty.	NEGATIVE	NONE	GENRE_B	
+2037	On the last night of the marriage, my husband and I went to the ballet.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2038	I never come again.	NEGATIVE	NONE	GENRE_B	
+2039	Echo Problem....Very unsatisfactory	NEGATIVE	NONE	GENRE_B	
+2040	Luckily, I didn't hurt myself and I will try to get a good night's sleep and hopefully I'll be much better tomorrow.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2041	I want to go fishing.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+2042	Not worth it.	NEGATIVE	NONE	GENRE_B	
+2043	I decided to drive my old running route on that three-mile course along backcountry roads.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2044	There are few experiences, and I'm speaking of myself here, to equal the emotion of walking a battlefield in one's own country and imagining the battle.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2045	Press reports said Asahara, a 40-year-old near-blind yoga master, also refused to have his pulse taken, saying: "I am healthy."	POSITIVE	PERSONAL_CARE	GENRE_A	
+2046	"I even have to lie about going to my sisters" houses too.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2047	However, BT headsets are currently not good for real time games like first-person shooters since the audio delay messes me up.	NEGATIVE	NONE	GENRE_B	
+2048	I visited his grave at the city cemetery.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2049	The transfers are very good.  	POSITIVE	NONE	GENRE_B	
+2050	All I can do is whine on the Internet, so here it goes.The more I use the thing the less I like it.	NEGATIVE	NONE	GENRE_B	
+2051	So bad...well...it's just bad.  	NEGATIVE	NONE	GENRE_B	
+2052	The storm ended just as quickly as it started, and then we were out again, fishing, catching one 20-incher after another.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2053	The bathrooms are disgusting and my top part of my toothbrush  the part that I brush me teeth with fell down the drain and we can't get it out.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2054	I was taken to the doctor in the middle of July.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2055	"My career is over and I'm currently unemployed" Axelsson told the Gothenburg-Posten daily in November.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2056	It's just painful!  	NEGATIVE	NONE	GENRE_B	
+2057	Sometimes I lie to myself. 	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2058	Nice, spicy and tender.	POSITIVE	NONE	GENRE_B	
+2059	but the movie makes a lot of serious mistakes.  	NEGATIVE	NONE	GENRE_B	
+2060	I got home to see the driest damn wings ever!	NEGATIVE	NONE	GENRE_B	
+2061	The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.	POSITIVE	NONE	GENRE_B	
+2062	We didn't see any wildlife, but we saw fresh tire tracks in the mud: mountain bikers.	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2063	"When I heard the rumble of the flood, all the time I had was to jump out the window and run to higher ground" said a tearful Erdelyi, still shocked by the events but grateful that she had been able to save a family rabbit and that her cat was found wet and shivering in the attic.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2064	In Montana, most of the trails we rode climbed steep, pine-forested mountain slopes.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2065	An hour and a half I wish I could bring back.  	NEGATIVE	NONE	GENRE_B	
+2066	The movie I received was a great quality film for it's age.  	POSITIVE	NONE	GENRE_B	
+2067	Just reading on the specs alone makes you say WOW.	POSITIVE	NONE	GENRE_B	
+2068	At the cemetery we each placed roses at the gravesite.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2069	The replacement died in a few weeks.	NEGATIVE	NONE	GENRE_B	
+2070	Love this headset!	POSITIVE	NONE	GENRE_B	
+2071	"I'm not going to lie to you: it hurts a lot to read the stuff I read about myself, and it hurts me and it hurts my mom a lot" said Doherty, who choked back tears as she looked at her mother, who was nearby.	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+2072	"I just discovered I couldn't comb my own hair, much less anyone else's" she said, adding that her long, straight hair became even less manageable in zero gravity.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2073	Sadly I slipped and fell down.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2074	I began to vomit and I had to go to a hospital.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2075	But we'd like to go to the movie and see the 30 million version.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2076	So for 10 days we got to see a group of young dancers from other companies and countries performing under the tutelage of Suzanne Farrell, one of the greatest ballet dancers of our time.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2077	"I just hope I make enough money here to pay the bills the next couple of months" joked Sheehan, who said she was tired of traveling, though not of playing golf.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2078	"I was hiding in the temple, I saw the airplane, I saw the bombs fall and suddenly I saw the fire around me, everywhere" she says.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2079	The Han Nan Chicken was also very tasty.	POSITIVE	NONE	GENRE_B	
+2080	Hide, who has also been in trouble with police in England, said Saturday:"Whilst I was over there I was arrested at gunpoint for absolutely no reason."	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2081	I will have to see a doctor,'Morceli said after his first race of the season.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+2082	Last year, arriving on Dec. 2, we might have attended a lecture and concert on medieval angels, or a display of designer Christmas trees, or a re-creation in an 18th-century London house of the Great Snowstorm of 1836, or an exhibition of Christmas presents and toys at the Bethnal Green Museum of Childhood: only a few of the tempting possibilities a calendar of the day's events dangled before us.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2083	A good quality bargain.. I bought this after I bought a cheapy from Big Lots that sounded awful and people on the other end couldn't hear me.	POSITIVE	NONE	GENRE_B	
+2084	"It would be nice to make enough money to have the opportunity to play here a little bit more, should I want to next year" Rose said.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2085	Anya Nazarova, 24, who earns about 150 dollars a month, said:"When I go to McDonalds, it's like being in an expensive restaurant."	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2086	As darkness falls, we head to Ottawa's ByWard Market: an area built around a market that opened in 1840, with boutiques, gourmet cheese shops, bakeries, restaurants and pubs.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2087	"I am like No, I am already making good enough money and I am traveling the world" Ofengaue said.	POSITIVE	MONEY_ISSUE	GENRE_A	
+2088	And the drinks are WEAK, people!	NEGATIVE	NONE	GENRE_B	
+2089	What if I declare bankruptcy?	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2090	To be even more candid, I actually went to soccer games a few years back.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2091	"If you have been fired, as I have been, you realize it doesn't mean you can't do the job" Torre said.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2092	I've learned from my mistakes and now I'm mentally tougher, punching my weight and generally in great shape.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2093	I went back to the doctor.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2094	"I can't make enough money to sustain my workforce" said Cave, 69.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2095	"The truth is that I hurt myself in a fall while snowboarding" Radmanovic said in a statement issued by the team.	NEGATIVE	 (FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2096	Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.	NEGATIVE	NONE	GENRE_B	
+2097	"A retrial was tentatively scheduled for Oct. 8. It looks like we're going to trial although a final decision hasn't been made yet" said Jan Nolan, an assistant Orange County district attorney.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2098	"I was accused and tried for 11 years for a crime that I did not commit" he told The Associated Press on Friday.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2099	"We had prepared for another party  but  I have come to see them for the last time in the morgue" said Osmani, who held two gold bracelets in his trembling hands.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2100	During the hearing, they refused to remove the shackles I had on my wrists and my feet and told me I was arrested with 15 other Arabs for having considered to fight the American army.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2101	Guess what happened? I got audited. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2102	the potatoes were great and so was the biscuit.	POSITIVE	NONE	GENRE_B	
+2103	I remember the first week we arrived, setting out for a run in the direction of the ocean in search of a seaside route.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2104	Great for using with your home stereo.	POSITIVE	NONE	GENRE_B	
+2105	I am not sure if we will still have enough money to pay the rent.	NEGATIVE	 MONEY_ISSUE	GENRE_A	
+2106	Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.  	POSITIVE	NONE	GENRE_B	
+2107	"It's too cold and I can't ride my bike" he lamented.	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2108	The service was meh.	NEGATIVE	NONE	GENRE_B	
+2109	Best of all is the rotating feature, very helpful.	POSITIVE	NONE	GENRE_B	
+2110	I'm returning them.	NEGATIVE	NONE	GENRE_B	
+2111	Horrible phone.	NEGATIVE	NONE	GENRE_B	
+2112	Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.	NEGATIVE	NONE	GENRE_B	
+2113	I have asked my lawyer to file an appeal against the court order, and he will do it on Saturday.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2114	"Things are just fine and I'm in very good health" Abbas told reporters, smiling as he left the Amman hospital dressed in an elegant black suit.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2115	This was utterly confusing at first, which caused me to lose a couple of very, very important contacts.	NEGATIVE	NONE	GENRE_B	
+2116	I recently visited the Guantanamo Bay Detention Center with a small group of civilian psychiatrists, psychologists, top military doctors and Department of Defense health affairs officials to discuss detainee medical and mental health care.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2117	Tom Wilkinson broke my heart at the end... and everyone else's judging by the amount of fumbling for hankies and hands going up to faces among males and females alike.  	POSITIVE	NONE	GENRE_B	
+2118	I can barely ever hear on it and am constantly saying "what?"	NEGATIVE	NONE	GENRE_B	
+2119	My health is good and we have big goals this year.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2120	But it's just not funny.  	NEGATIVE	NONE	GENRE_B	
+2121	This is a disgrace.	NEGATIVE	NONE	GENRE_B	
+2122	"I was threatened by them" he told the judge.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2123	Motorola finally got the voice quality of a bluetooth headset right.	POSITIVE	NONE	GENRE_B	
+2124	To get backstage, we cross the steam-train railroad tracks, walk around a bend in the road and finally pass through a secluded gate.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2125	I as well would've given godfathers zero stars if possible.	NEGATIVE	NONE	GENRE_B	
+2126	After lunch by a river, then a hike over a series of hills above and below timberline, we saw the mountain unfold to our right.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2127	"My husband and I get into fights all the time" says Angie Borgedalen, editor of the local Liberty Tribune.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2128	The movie in movie situations in the beginning and through the game that is played with her by the "acting coach" are fascinating.  	POSITIVE	NONE	GENRE_B	
+2129	"I have said no" Yang told the South China Morning Post.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2130	"I'm not sure how much money I have" Griffin replies.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2131	"I do not lie about my age" says Karen Doty, of Washington.	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+2132	I thought it was the most perfect description of what's happened in the welfare state and how we've lost the argument over language in the last 35 years.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+2133	I would like to apologize to my teammates, coaches and Lakers management and Lakers fans for initially lying about the circumstances.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2134	She insisted "I am not lying to this committee."	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+2135	I guess that nobody at the network that aired this dribble watched it before putting it on.  	NEGATIVE	NONE	GENRE_B	
+2136	It's not what it says it is.	NEGATIVE	NONE	GENRE_B	
+2137	It was awesome.	POSITIVE	NONE	GENRE_B	
+2138	Nice solid keyboard.	POSITIVE	NONE	GENRE_B	
+2139	"While we were passing by Puqian harbor of Wenchang, we were informed of the tropical storm and decided to moor the boat in the harbor" said Zheng "but since we were not familiar with the navigable route, our fishing boat hit a reef and the bilge broke."	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2140	After one bite, I was hooked.	POSITIVE	NONE	GENRE_B	
+2141	Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.	NEGATIVE	NONE	GENRE_B	
+2142	Cute, quaint, simple, honest.	POSITIVE	NONE	GENRE_B	
+2143	I'm not driving so much, so my likelihood of an accident is lower. 	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2144	Fantastic buy and will get again for whatever my next phone is	POSITIVE	NONE	GENRE_B	
+2145	Bacon is hella salty.	POSITIVE	NONE	GENRE_B	
+2146	I think they believe that I am guilty of some dastardly crime and bourgeois.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2147	"I live in constant fear of raids, eviction and confiscation of my products and all my money" the father-of-four said.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2148	Under Skip's tutelage, we rode six to eight hours each day, traversing a 150-mile circle that took us from a cattle guard 12 miles south of Jeffrey City to Lost Creek Reservoir, where we camped for two nights in the high plains desert, into the foothills of Crooks Mountain for three more nights of camping and then back to Crooks Gap, near our starting point.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2149	Nice headset priced right.	POSITIVE	NONE	GENRE_B	
+2150	I was sick on my fourth day off, but my neighborhood isn't the kind of place where you can find a doctor easily.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2151	I hate those things as much as cheap quality black olives.	NEGATIVE	NONE	GENRE_B	
+2152	The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.	POSITIVE	NONE	GENRE_B	
+2153	This is the number one best TH game in the series.  	POSITIVE	NONE	GENRE_B	
+2154	The acting sucked.  	NEGATIVE	NONE	GENRE_B	
+2155	This hole in the wall has great Mexican street tacos, and friendly staff.	POSITIVE	NONE	GENRE_B	
+2156	I'm not eating here!	NEGATIVE	NONE	GENRE_B	
+2157	Awful service.	NEGATIVE	NONE	GENRE_B	
+2158	Your servers suck, wait, correction, our server Heimer sucked.	NEGATIVE	NONE	GENRE_B	
+2159	I have always been able to buy whatever clothes either I, or the children, needed or desired and I have always been able to spend substantial amounts of monies for grooming, health and aesthetic purposes.	POSITIVE	MONEY_ISSUE	GENRE_A	
+2160	Sounds good reasonably priced and effective, Its that simple !	POSITIVE	NONE	GENRE_B	
+2161	"A Somali radio journalist was detained for eight hours by police on Monday, amid the deadliest violence Mogadishu has experienced in months, the reporter told AFP'I got my freedom back" Abdi Mohamed Ismail, Shabelle Radio news editor, told AFP after his release.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+2162	I would highly recommend this product.	POSITIVE	NONE	GENRE_B	
+2163	"I have been raped and it is not an experience I would ever glamorise" she told the New Musical Express, a British weekly pop newspaper.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2164	Now I am just going to play football on the beach with my friends.	NEUTRAL	 OUTDOOR_ACTIVITY	GENRE_A	
+2165	Pretty piece of junk.	NEGATIVE	NONE	GENRE_B	
+2166	Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!	NEGATIVE	NONE	GENRE_B	
+2167	When I pay the bills and buy my medicine I have only 30 marks dlrs 17 left over for food and everything else. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2168	A great way to finish a great.	POSITIVE	NONE	GENRE_B	
+2169	"I did not fall down, so he shot me again in the hip" she recalled.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2170	It came free with a DVD player I bought but I still turned the thing off halfway through because I was embarrassed for Howell.  	NEGATIVE	NONE	GENRE_B	
+2171	Graphics is far from the best part of the game.  	NEGATIVE	NONE	GENRE_B	
+2172	Better than you'd expect.	POSITIVE	NONE	GENRE_B	
+2173	"Not only are we ready to go to trial on Oct. 1 on these charges, we believe it is important to go to trial then" Porter said.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2174	"I am not guilty of the crimes orchestrated by Mr. Hun Sen's regime and thus I am not prepared to submit myself to the judgment of a judicial system which has been described by Ambassador Thomas Hammerberg, special representative of the U.N. secretary-general for human rights in Cambodia, as not being neutral or independent" he said.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+2175	But we're going out tomorrow night, and we're all atwitter about what movie we're going to see.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2176	The plastic breaks really easy on this clip.	NEGATIVE	NONE	GENRE_B	
+2177	Club officials could not be reached for comment, but ANSA quoted Simoni as saying "It's true, I have been fired."	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2178	My hair is wavy, but I comb it out straight.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2179	-My order was not correct.	NEGATIVE	NONE	GENRE_B	
+2180	Excellent!.	POSITIVE	NONE	GENRE_B	
+2181	"Back home I used to cut my hair every week" he said.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2182	He asked me one night if I had any involvement with it or if I knew anything, and I lied to him. 	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2183	Also the music by Mark Snow is possibly the best score I've ever heard.  	POSITIVE	NONE	GENRE_B	
+2184	"I lie to friends" said Danny Sager, 33, a textile salesman who has canceled plans with friends in favor of a sweaty night with Ms. Kane at the World Gym on Broadway.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2185	It was extremely "crumby" and pretty tasteless.	NEGATIVE	NONE	GENRE_B	
+2186	You get what you pay for I guess.	NEGATIVE	NONE	GENRE_B	
+2187	I did not have any problem with this item and would order it again if needed.	POSITIVE	NONE	GENRE_B	
+2188	"I'll see how the fitness test goes" said the grey-haired Ravanelli.	NEUTRAL	PERSONAL_CARE	GENRE_A	
+2189	in addition it feels &amp; looks as if the phone is all lightweight cheap plastic.	NEGATIVE	NONE	GENRE_B	
+2190	The fries were not hot, and neither was my burger.	NEGATIVE	NONE	GENRE_B	
+2191	Aailiyah was pretty good as Akasha, in places compelling (her first entrance and mini dance scene).  	POSITIVE	NONE	GENRE_B	
+2192	"I have no fear of death, but I want to work so that others can have access to drugs" Tin Ko said.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2193	He is an amazing film artist, one of the most important whoever lived.  	POSITIVE	NONE	GENRE_B	
+2194	"What I fear most is that whoever bought the piranhas will release them into natural waterways for fear of arrest" he was quoted as saying.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2195	I've been unable to reach Liu Xia.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2196	But I haven't got into an accident.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2197	It's uncomfortable and the sound quality is quite poor compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).	NEGATIVE	NONE	GENRE_B	
+2198	There was NO chemistry between Ben Affleck and Sandra Bullock in this film, and I couldn't understand why he would consider even leaving his wife-to-be for this chick that he supposedly was knocked out by.  	NEGATIVE	NONE	GENRE_B	
+2199	"I stand here today because a judge has found me guilty of contempt of court" Toussaint said outside the jail.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2200	He continued "If I seem unduly clear to you, you must have misunderstood what I said."	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2201	As I turned to look at the mountain, the whole thing came burying down, breaking again, so we decided our best bet was to keep walking.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2202	I should have lied about that, but I can't. 	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+2203	I have been here several times in the past, and the experience has always been great.	POSITIVE	NONE	GENRE_B	
+2204	Then I put lipstick, a little bit of mascara, and eye shadow.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2205	The sweet potato fries were very good and seasoned well.	POSITIVE	NONE	GENRE_B	
+2206	The noise shield is incrediable.	POSITIVE	NONE	GENRE_B	
+2207	I could not be guilty of such a horrible crime. 	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2208	I was threatened a year back and since then I have stopped working and stopped driving. 	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2209	Im in AZ all the time and now have my new spot.	POSITIVE	NONE	GENRE_B	
+2210	This is an Outstanding little restaurant with some of the Best Food I have ever tasted.	POSITIVE	NONE	GENRE_B	
+2211	I used to talk on it for 1 - 1 1/2 hours and the battery would be literally drained and dying.	NEGATIVE	NONE	GENRE_B	
+2212	"And it seems we can walk and run on the mountain for hours again" he added in a recent interview.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+2213	Was not happy.	NEGATIVE	NONE	GENRE_B	
+2214	I highly recommend this modest priced cellular phone.	POSITIVE	NONE	GENRE_B	
+2215	The descriptions said "yum yum sauce" and another said "eel sauce", yet another said "spicy mayo"...well NONE of the rolls had sauces on them.	NEGATIVE	NONE	GENRE_B	
+2216	Excellent performance.  	POSITIVE	NONE	GENRE_B	
+2217	"But even those with final judgments could have pretty good grounds to go back to the trial court and say 'My conviction has to be overturned because what I was convicted of was not a crime'" Wise said.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+2218	And so we tag along to an ancient monastery where the monks condescend to the visitors, up peaks where people take snapshots rather than taking in the vistas, on to a cemetery so steep and narrow that the dead are buried standing on their feet.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2219	Their on-screen chemistry, critical to the entire film, is genuine.  	POSITIVE	NONE	GENRE_B	
+2220	don't waste your money.	NEGATIVE	NONE	GENRE_B	
+2221	An excellent performance from Ms.  	POSITIVE	NONE	GENRE_B	
+2222	The plot - well, I said I'd let that one go.  	NEGATIVE	NONE	GENRE_B	
+2223	The internet access was fine, it the rare instance that it worked.	NEGATIVE	NONE	GENRE_B	
+2224	Avoid at ALL costs!  	NEGATIVE	NONE	GENRE_B	
+2225	Now this is a movie I really dislike.  	NEGATIVE	NONE	GENRE_B	
+2226	After we got things squared away at Tim's home, I went to the hospital to join him, Dee's mother, her brothers and my other son at Dee's bedside.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2227	A week later after I activated it, it suddenly died.	NEGATIVE	NONE	GENRE_B	
+2228	After our customary dessert of yogurt with active cultures, we walked to the Mendocino Headlands, a park atop a precipice at the end of Main Street, where we watched the sun sink into a calm sea.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2229	"I knew that what I had taken and been given was a banned substance and I lied about it" the San Diego Union Tribune quoted the letter as saying.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2230	Product was excellent and works better than the verizon one and Boy was it cheaper!	POSITIVE	NONE	GENRE_B	
+2231	It is unusable in a moving car at freeway speed.	NEGATIVE	NONE	GENRE_B	
+2232	You never know if you pushed it hard enough or the right number of times for the function you want or not.	NEGATIVE	NONE	GENRE_B	
+2233	The film is well paced, understated and one of the best courtroom documentaries I've seen.  	POSITIVE	NONE	GENRE_B	
+2234	Does not work for listening to music with the cingular 8125.	NEGATIVE	NONE	GENRE_B	
+2235	Best tacos in town by far!!	POSITIVE	NONE	GENRE_B	
+2236	I only used it two days, and it wasn't always easy to hear with.	NEGATIVE	NONE	GENRE_B	
+2237	I love this bluetooth!	POSITIVE	NONE	GENRE_B	
+2238	I can assure you that you won't be disappointed.	POSITIVE	NONE	GENRE_B	
+2239	The phone is sturdy and waterproof.	POSITIVE	NONE	GENRE_B	
+2240	We aren't ones to make a scene at restaurants but I just don't get it...definitely lost the love after this one!	NEGATIVE	NONE	GENRE_B	
+2241	The film gives meaning to the phrase, "Never in the history of human conflict has so much been owed by so many to so few.  	POSITIVE	NONE	GENRE_B	
+2242	"We know that the majority of sunflower oil is most likely not contaminated but faced with a doubt we have an obligation to protect health" Arranz said.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2243	I can think of no other film where something vitally important occurs every other minute.  	POSITIVE	NONE	GENRE_B	
+2244	I couldn't send enough money home.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2245	Julian Fellowes has triumphed again.  	POSITIVE	NONE	GENRE_B	
+2246	After that, I started to color my hair and polish my nails.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2247	"I keep going to every new mass grave, to every morgue in hope to recognize the remains of clothes or anything they had with them when I last saw them" said Fejzic, whose 16-year-old son was wrested from her embrace by Bosnian Serb soldiers after they captured the former Muslim enclave.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2248	I went to the doctor when it hit 103.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2249	"I've been misquoted in stories before and never let it bother me, but this one got to me a bit" said Dancer, recalling recently the article that ran in a small paper in May 1993.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2250	I struggle to find anything bad to say about it.  	POSITIVE	NONE	GENRE_B	
+2251	At dinner, I went to restaurants in town, serving copious portions of rich, salty Czech food.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2252	The worst phone I've ever had.... Only had it for a few months.	NEGATIVE	NONE	GENRE_B	
+2253	I have been kept here because I have no way of paying my hospital bills.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2254	If you are reading this please don't go there.	NEGATIVE	NONE	GENRE_B	
+2255	Although the house is damaged, I am thankful to Allah that we are safe. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2256	It quit working after I'd used it for about 18 months, so I just purchased another one because this is the best headset I've ever owned.	POSITIVE	NONE	GENRE_B	
+2257	In other words, the content level of this film is enough to easily fill a dozen other films.  	POSITIVE	NONE	GENRE_B	
+2258	I loved this movie it was a great portrayal of a family who had it's share of ups and down, but in the end they knew that special love they had for each other.  	POSITIVE	NONE	GENRE_B	
+2259	There is really nothing for me at postinos, hope your experience is better	NEGATIVE	NONE	GENRE_B	
+2260	All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.	POSITIVE	NONE	GENRE_B	
+2261	But the premise of the film was so ridiculous: that the President of the U.S.  	NEGATIVE	NONE	GENRE_B	
+2262	I need to go back and tour that maritime museum in Havre de Grace.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2263	"Of course I have no problem with being stopped by the police if I've done something wrong" said the teenager, identified as 'W' because he is underage.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2264	And most important, in those moments when I skied down a mountain for the first time, or Stephen picked his snowshoe route through virgin terrain, or we both trotted up a cross-country trail's incline and unzipped our jackets to let in the cooling air, everything else was forgotten.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2265	On mountain trails, we will carefully step around bubbling sulphur springs steaming from the ground, and will pause often to admire unfurling ferns, wild orchids, and parrots and iguanas.	NEUTRAL	OUTDOOR_ACTIVITY	GENRE_A	
+2266	But I have to follow the advice of my surgeon and quickly undergo surgery so I'm back on my feet as soon as possible to play for my club, Stade Francais.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2267	I went to the eye doctor and he gave me some glasses but I still get the headaches.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2268	The pairing of the two devices was so easy it barely took a couple minutes before I started making calls with the voice dialing feature.	POSITIVE	NONE	GENRE_B	
+2269	"Unlike many other people that make their money giving seminars" Trump continued "I made my money in real estate and, as your reporter should have known, I never filed for bankruptcy." 	POSITIVE	MONEY_ISSUE	GENRE_A	
+2270	One afternoon we took a boat ride along Matanzas Pass, offered for  12.50 for adults  kids half that price  by Dockside Boat Rentals at our hotel.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2271	Must have been an off night at this place.	NEGATIVE	NONE	GENRE_B	
+2272	Builders already owe me more than 200 million yuan 29 million, and I don't know when I'm going to get it back. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2273	But the flood waters demolished the house and I fell into the water.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2274	"I was sick for almost two weeks" the doctor said.	NEGATIVE	PERSONA_CARE	GENRE_A	
+2275	A few years ago, my son and I, driving from California to Texas, made an unplanned detour off Interstate 40 at Albuquerque, N.M., a city to which we had never been, and after wandering around for an hour or two, decided to eat at a restaurant of which we had never heard.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2276	I eventually said no because it wasn't part of the house's culture.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2277	He is almost unbearable to watch on screen, he has little to no charisma, and terrible comedic timing.  	NEGATIVE	NONE	GENRE_B	
+2278	"Everybody should know that if I'm healthy, and I don't even have to be 100 percent healthy, I just want to play" said Jagr, the last player off the ice in practice both Monday and Tuesday.	NEUTRAL	PERSONAL_CARE	GENRE_A	
+2279	Her role was played well.  	POSITIVE	NONE	GENRE_B	
+2280	I definitely wanted to walk away from here on top.	POSITIVE	OOUTDOOR_ACTIVITY	GENRE_A	
+2281	Does not charge the Cingular (ATT) 8525 phone.	NEGATIVE	NONE	GENRE_B	
+2282	I was deeply impressed with the character he played.  	POSITIVE	NONE	GENRE_B	
+2283	Always a great time at Dos Gringos!	POSITIVE	NONE	GENRE_B	
+2284	Gregory, whose next book, tentatively titled Presumed Ignorant, will be about lawyers, said: "I guess I'll see if the IRS meets those high standards when I get audited." 	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2285	"I'm Hank Azaria, and, yes, I lost a bet" Azaria says.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2286	This place is two thumbs up....way up.	POSITIVE	NONE	GENRE_B	
+2287	"I was probably misquoted" he said.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+2288	I love Lane, but I've never seen her in a movie this lousy.  	NEGATIVE	NONE	GENRE_B	
+2289	The other evening, we found our barbecue at a place called the Country Tavern, a few miles west of Kilgore where State Highway 31 crosses Farm Road 2767.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2290	"I earn enough money to feed my children meat and chicken" she said, smiling.	POSITIVE	MONEY_ISSUE	GENRE_A	
+2291	"I called my$ sister to tell her I was in Israel, but I could n't tell her I was in jail" the St. Petersburg woman said.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2292	Now I am facing a diminished benefit on a fixed income.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2293	the spaghetti is nothing special whatsoever.	NEGATIVE	NONE	GENRE_B	
+2294	I enjoyed reading this book to my children when they were little.  	POSITIVE	NONE	GENRE_B	
+2295	I will never go back to this place and will never ever recommended this place to anyone!	NEGATIVE	NONE	GENRE_B	
+2296	Very bad Experience!	NEGATIVE	NONE	GENRE_B	
+2297	"I would be lying to you if I said that implementing the results of these elections everywhere was going to be easy" he told reporters, alluding to concerns that refugee returns could take years, even generations.	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+2298	Hirtzberger collapsed after eating the chocolate and said "I have been poisoned before being helicoptered to hospital for treatment." 	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2299	It even has its sweet moments.  	POSITIVE	NONE	GENRE_B	
+2300	I don't need to go out to a restaurant.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2301	On our first day of mountain trekking, we walked straight into a blizzard.	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2302	"You know I have previously been assaulted to near death" Anwar said, referring to a beating he received after being arrested on sex and corruption charges a decade ago.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2303	About ten minutes into this film I started having second thoughts.  	NEGATIVE	NONE	GENRE_B	
+2304	If we can't settle it for something fair and just, we're going to go to trial.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2305	It's one of the most boring Horror movies from the 90's mainly because it starts slow and centers in a boring atmosphere.  	NEGATIVE	NONE	GENRE_B	
+2306	My ribeye steak was cooked perfectly and had great mesquite flavor.	POSITIVE	NONE	GENRE_B	
+2307	Which has more depth and character than the man underneath it.  	NEGATIVE	NONE	GENRE_B	
+2308	The art style has the appearance of crayon/pencil drawings and is wonderfully colorful and fanciful.  	POSITIVE	NONE	GENRE_B	
+2309	Look at me, I gave up my studies to look for a job to pay for my studies.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2310	I'm innocent and I'm being accused of something I haven't done.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2311	I was in jail for five months for nothing.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2312	It probably would have been better if the director hadn't spent most of the movie showcasing his own art work, which really isn't that noteworthy.  	NEGATIVE	NONE	GENRE_B	
+2313	That requires that we appreciate each other's cultures and that we will go see a movie even if the star is a person who doesn't look like us.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2314	Garbo, who showed right off the bat that her talents could carry over from the silent era (I wanted to see some of her silent work, but Netflix doesn't seem to be stocking them.  	POSITIVE	NONE	GENRE_B	
+2315	"I wasn't beaten or threatened in the jail, the atmosphere was OK" he said.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2316	Go rent it.  	POSITIVE	NONE	GENRE_B	
+2317	I felt very moved at the beginning of the concert.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2318	Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.	POSITIVE	NONE	GENRE_B	
+2319	"I was charged with attempted murder for that" Healy said.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2320	Thanks again to Amazon for having the things I need for a good price!	POSITIVE	NONE	GENRE_B	
+2321	If you do watch it, however, there are small consolations: The actresses playing Anne's sisters each do a wonderful job with their roles.  	POSITIVE	NONE	GENRE_B	
+2322	Bucks coach George Karl said he would love to have his good friend back in Wisconsin full time:"I would probably gain some weight, but maybe we could work on our health together." 	NEUTRAL	PERSONAL_CARE	GENRE_A	
+2323	"I can't promise you I won't die in the next year, because I could be in a car accident or something like that" she said.	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2324	This was reflected not only in the cast, but also in the below-par script, which borrowed much from the earlier classic.  	NEGATIVE	NONE	GENRE_B	
+2325	This is a bad film, with bad writing, and good actors....an ugly cartoon crafted by Paul Haggis for people who can't handle anything but the bold strokes in storytelling....a picture painted with crayons.  	NEGATIVE	NONE	GENRE_B	
+2326	Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.	NEGATIVE	NONE	GENRE_B	
+2327	Very easy to use.	POSITIVE	NONE	GENRE_B	
+2328	I dined at Dragonfly Neo-V  247 King St., 614-298-9986, an upscale vegan restaurant where I was fooled by the flavors.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2329	The performances are not improved by improvisation, because the actors now have twice as much to worry about: not only whether they're delivering the line well, but whether the line itself is any good.  	NEGATIVE	NONE	GENRE_B	
+2330	I had a seriously solid breakfast here.	POSITIVE	NONE	GENRE_B	
+2331	I used to have a full head of hair, before I entered the numbering business.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2332	I am a fan of his ... This movie sucked really bad.  	NEGATIVE	NONE	GENRE_B	
+2333	This convention never worked well in the past, and certainly doesn't work here.  	NEGATIVE	NONE	GENRE_B	
+2334	I am not looking for a job.	POSITIVE	MONEY_ISSUE	GENRE_A	
+2335	"I killed the teacher as I thought he was not a good man" Zillu, 17, told police after he was arrested.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2336	They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food.	NEGATIVE	NONE	GENRE_B	
+2337	I remember seeing Liza Minnelli in concert and sitting on the steps and wishing I could go dance with her.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2338	If we do it in the right way, we can reach our goal of knocking off weight, getting our cholesterol down, really getting healthy and living again.	NEUTRAL	PERSONAL_CARE	GENRE_A	
+2339	They owe me more than 130,000 shekels, 32,500 dollars, which I still haven't recovered despite a court case. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2340	Furthermore, you can't even find hours of operation on the website!	NEGATIVE	NONE	GENRE_B	
+2341	We would recommend these to others.	POSITIVE	NONE	GENRE_B	
+2342	It was too predictable, even for a chick flick.  	NEGATIVE	NONE	GENRE_B	
+2343	steve martin delivers a really funny performance of a middle-aged, upper class, uptight white guy.  	POSITIVE	NONE	GENRE_B	
+2344	So I bought about 10 of these and saved alot of money.	POSITIVE	NONE	GENRE_B	
+2345	And we went to the Alabama concert in Spokane and stayed overnight there.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2346	Car charger as well as AC charger are included to make sure you never run out of juice.Highy recommended	POSITIVE	NONE	GENRE_B	
+2347	Bad Purchase.	NEGATIVE	NONE	GENRE_B	
+2348	It wasn't busy at all and now we know why.	NEGATIVE	NONE	GENRE_B	
+2349	He owns the film, just as Spacek owned "Coal Miner's Daughter" and Quaid owned "Great Balls of Fire.  	POSITIVE	NONE	GENRE_B	
+2350	A greasy, unhealthy meal.	NEGATIVE	NONE	GENRE_B	
+2351	After 3 months, screen just went black all of a sudden.	NEGATIVE	NONE	GENRE_B	
+2352	Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!	POSITIVE	NONE	GENRE_B	
+2353	Editing: The editing of this film was phenomenal in my opinion.  	POSITIVE	NONE	GENRE_B	
+2354	We'll never go again.	NEGATIVE	NONE	GENRE_B	
+2355	Through the years, I have been audited four times.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2356	The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.	NEGATIVE	NONE	GENRE_B	
+2357	By the time she arrived, we'd thrown on clean clothes and combed our hair.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2358	Her top 10 reasons for appearing on the show included I lost a bet with Tipper and If Dan Quayle did it, how hard could it be?	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2359	awesome device.	POSITIVE	NONE	GENRE_B	
+2360	Maybe there would be a reasonable explanation for this atrocity.  	NEGATIVE	NONE	GENRE_B	
+2361	"This evening, I was driving in an over-exuberant manner and, as a result, was stopped by the police" Hamilton said in a statement.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2362	I purchased this and within 2 days it was no longer working!!!!!!!!!	NEGATIVE	NONE	GENRE_B	
+2363	I went to a doctor and the nurse asked my profession.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2364	"I looked at his eyes - not friendly - and he was determined to fire, that's why I turned and ran and I was hit" he said.	NEGATIVE	 (FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2365	Virgin Wireless rocks and so does this cheap little phone!	POSITIVE	NONE	GENRE_B	
+2366	The chips and salsa were really good, the salsa was very fresh.	POSITIVE	NONE	GENRE_B	
+2367	Sir, I lied about myself.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2368	If you stop and think about it, it's a miracle that we get out of bed every day and brush our teeth and remember to buy toothpaste.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2369	I really do recommend this place, you can go wrong with this donut place!	POSITIVE	NONE	GENRE_B	
+2370	We got the food and apparently they have never heard of salt and the batter on the fish was chewy.	NEGATIVE	NONE	GENRE_B	
+2371	On our first outing here we saw lots of fish, including the parrotfish, with its neon-bright blue and green hues.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2372	"Even if I get arrested again by the Americans, let the world know the truth" the 47-year-old, who has worked as a police officer for close to 30 years, told AFP during an interview in his home in southeastern Afghanistan on Wednesday.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2373	"Every time I have a dispute with my wife, I shout at my sons" he told reporters in Brussels.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2374	I'm getting a lot of headaches and I have difficulty sleeping, so I just keep going to the doctor and keep seeing if I can get things better.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2375	I received my orders well within the shipping timeframe, everything was in good working order and overall, I am very excited to have this source.	POSITIVE	NONE	GENRE_B	
+2376	"I read a little article in my local newspaper in Adelaide, in south Australia: and I went to see his concert" he recalls.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2377	The stories were powerful explorations of the nature of man and of art.  	POSITIVE	NONE	GENRE_B	
+2378	I have used up all my savings on hospital bills. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2379	It fits so securely that the ear hook does not even need to be used and the sound is better directed through your ear canal.	POSITIVE	NONE	GENRE_B	
+2380	I'm not going to commit any monstrous crimes that would make my name a scandal and cause me to lose all my lucrative endorsements.	POSITIVE	LEGAL_ISSUE	GENRE_A	
+2381	If my health doesn't, then I will have to retire.	NEUTRAL	PERSONAL_CARE	GENRE_A	
+2382	I did return that night in the marine-themed restaurant.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2383	"It bothers me, but I just keep walking" she said.	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2384	"I am in need of care and my health would be better if I were not in a continuous state of tension" he said.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2385	So anyone near you will hear part of your conversation.	NEGATIVE	NONE	GENRE_B	
+2386	This particular model would not work with my Motorola Q smartphone.	NEGATIVE	NONE	GENRE_B	
+2387	My car was damaged and I spent more than 1,000 repairing it.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2388	Waste of money.	NEGATIVE	NONE	GENRE_B	
+2389	This movie is a good and humorous comment on life in 2006.  	POSITIVE	NONE	GENRE_B	
+2390	When I get to Chita the first thing I do is go to the hairdresser and get a manicure and my hair done so I can go to see him and say "Misha, we're living just the same as we used to."	POSITIVE	PERSONAL_CARE	GENRE_A	
+2391	you could only take 2 videos at a time and the quality was very poor.	NEGATIVE	NONE	GENRE_B	
+2392	I am glad I purchased it.	POSITIVE	NONE	GENRE_B	
+2393	It has kept up very well.	POSITIVE	NONE	GENRE_B	
+2394	It is indescribably the most annoying and idiotic show I have ever seen.  	NEGATIVE	NONE	GENRE_B	
+2395	But we got lucky at Spilios, a taverna on a hill above Falassarna.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2396	This was like the final blow!	NEGATIVE	NONE	GENRE_B	
+2397	But finally I caved, and have been forced to lie to my mom for months about the wonders of Susan Lucci's skin-care therapy. 	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2398	The screen size is big, key pad lit well enough, and the camera quality is excellent for a camera phone.	POSITIVE	NONE	GENRE_B	
+2399	Disappointed with battery.	NEGATIVE	NONE	GENRE_B	
+2400	That was nice.  	POSITIVE	NONE	GENRE_B	
+2401	Declaring I've not been fired, Russian Foreign Minister Yevgeny Primakov said Tuesday that high-level scientific and economic exchanges with the United States will survive President Boris Yeltsin's Cabinet shakeup.	POSITIVE	MONEY_ISSUE	GENRE_A	
+2402	I decided not to go to the concert because I was tired.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+2403	Calling for talks to end the strike, he said:"I do not want to lie to them."	POSITIVE	COMMUNICATION_ISSUE	GENRE_A	
+2404	Att is not clear, sound is very distorted and you have to yell when you talk.	NEGATIVE	NONE	GENRE_B	
+2405	I didn't know what to expect going into it, but what made it special for me was meeting the other athletes from different countries and different sports.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2406	I remember that the funeral services for the Ugas at Sanford Stadium were once private, but by the time we got to Uga V, our mascot had become so famous that we had to publicly announce our plans.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+2407	I have had problems wit hit dropping signal and more.	NEGATIVE	NONE	GENRE_B	
+2408	"When Arnold Palmer and Nancy Lopez were playing a match here a couple of years ago" Lester says "I remember the most amazing sight: a string of golf cars backed up down the path toward that golf course, a half-mile a kilomter long."	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2409	The only possible way this movie could be redeemed would be as MST3K fodder.  	NEGATIVE	NONE	GENRE_B	
+2410	I understand that it's supposed to be a cheap popcorn comedy, but that doesn't mean that it has to completely insult our intelligence, and have writing so incredibly hackneyed that it borders on offensive.  	NEGATIVE	NONE	GENRE_B	
+2411	Regrettably, the film fails.  	NEGATIVE	NONE	GENRE_B	
+2412	A good time!	POSITIVE	NONE	GENRE_B	
+2413	"I just discovered I couldn't comb my own hair, much less anyone else's" she said, adding that her long, straight hair became even less manageable in zero gravity.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2414	The plot has more holes than a pair of fishnet stockings and the direction and editing is astonishingly ham fisted.  	NEGATIVE	NONE	GENRE_B	
+2415	WAAAAAAyyyyyyyyyy over rated is all I am saying.	NEGATIVE	NONE	GENRE_B	
+2416	I can't understand how, in my own state, which we were fighting for, we are attacked by fellow citizens. 	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2417	"Now that I've lied about my life" she quipped "lie about yours."	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2418	Great place to relax and have an awesome burger and beer.	POSITIVE	NONE	GENRE_B	
+2419	The atmosphere is modern and hip, while maintaining a touch of coziness.	POSITIVE	NONE	GENRE_B	
+2420	Gets a signal when other Verizon phones won't.	POSITIVE	NONE	GENRE_B	
+2421	"I thought I was going to have surgery, which meant here we go again" said Bonilla, who was fitted with a brace instead.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2422	Elias Koteas,Jack Palance play good roles Angelina is hot and gets naked.Billy Drago appears in this and is cool as usual + a cameo by Sven ole Thorsen helps make this a very enjoyable movie with good acting and a decent budget.  	POSITIVE	NONE	GENRE_B	
+2423	"I no longer believe that my anonymity is kept, especially with state security agents lurking around my street and asking questions about me, since that day" he said, referring to anti-referendum protests last month in which he participated and several demonstrators were detained.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2424	I said no for many years.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2425	"I was hoping we could raise enough money so that she could have the surgery" said Kelsey Lind, a 13-year-old 4-H troop member.	NEUTRAL	MONEY_ISSUE	GENRE_A	
+2426	The story starts too fast with absolutely no suspense or build-up in the slightest.  	NEGATIVE	NONE	GENRE_B	
+2427	It definitely was not as good as my S11.	POSITIVE	NONE	GENRE_B	
+2428	And so I leave the haircutting area with my head down, lest I accidentally get in range of a mirror.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2429	"For health reasons, I need to undergo medical tests and treatment and rest for a few days before I can meet with everyone" Wei said in a statement.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+2430	"I would go to the movie theaters and watch a movie like all of us do" he says "and every time, dude, there was always this little wince".	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2431	This game rocks.  	POSITIVE	NONE	GENRE_B	
+2432	"I had no fear of anything" said Noel Arteaga Carpio, 30, a barber.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2433	It is simple to use and I like it.	POSITIVE	NONE	GENRE_B	
+2434	I was misquoted recently in saying that we wouldn't consider Darren, that's not the case.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2435	Even though there are so many people all around bumping into everyone else, I don't feel unsafe.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2436	I must say I have taped most of the episodes and i find myself watching them over and over again.  	POSITIVE	NONE	GENRE_B	
+2437	Half of my mind is on the events of this week and the other half is to do with Ivan because my house was badly damaged and I have no insurance. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2438	"I was later detained for nine days as the police wanted to know more about my work and my relationships as a reporter" said Trang.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2439	This place is amazing!	POSITIVE	NONE	GENRE_B	
+2440	A lot of websites have been rating this a very good phone and so do I.	POSITIVE	NONE	GENRE_B	
+2441	I recently traveled to Afghanistan for three weeks, meeting with government officials, embedding with U.S. soldiers from the 2-4 Infantry and interviewing senior American military officers.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2442	I could not stand to even watch it for very long for fear of losing I.Q.  	NEGATIVE	NONE	GENRE_B	
+2443	This is a great deal.	POSITIVE	NONE	GENRE_B	
+2444	Yes, we've argued with one another, but I've also argued with my wife, and we've been married for 45 years. 	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2445	A piece of cinematic garbage captured on celluloid.  	NEGATIVE	NONE	GENRE_B	
+2446	The biggest complaint I have is, the battery drains superfast.	NEGATIVE	NONE	GENRE_B	
+2447	I was so insulted.	NEGATIVE	NONE	GENRE_B	
+2448	Apparently frail, Calment has kept most of her wits and told her doctor Victor Lefebvre, last week, "When I die, I'll die healthy."	NEUTRAL	PERSONAL_CARE	GENRE_A	
+2449	clipping this to your belt will deffinitely make you feel like 50 cent's up-and-coming.	POSITIVE	NONE	GENRE_B	
+2450	My sashimi was poor quality being soggy and tasteless.	NEGATIVE	NONE	GENRE_B	
+2451	That was done in the second movie.  	NEGATIVE	NONE	GENRE_B	
+2452	Secondly, Hitchcock pretty much perfected the thriller and chase movie.  	POSITIVE	NONE	GENRE_B	
+2453	A few months after I took up birdwatching, some friends invited me on a birding trip up the Old Pumphouse Road in Genting Highlands.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2454	"Don't tell her who I am seeing, since she thinks that I am dating an FBI agent which is obviously not the case but I lied to her so she wouldn't ask any questions" the e-mail states.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2455	I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!	POSITIVE	NONE	GENRE_B	
+2456	I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.	POSITIVE	NONE	GENRE_B	
+2457	I won't be back.	NEGATIVE	NONE	GENRE_B	
+2458	"I could have gone in with a frontal assault, which could have been extraordinarily dangerous to all concerned, and we knew that up front" she said.	NEUTRAL	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2459	I have to use the smallest earpieces provided, but it stays on pretty well.	POSITIVE	NONE	GENRE_B	
+2460	The building itself seems pretty neat; the bathroom is pretty trippy, but I wouldn't eat here again.	NEGATIVE	NONE	GENRE_B	
+2461	Neon pink lipstick was all the rage on spring runways, however, so I decided to co-opt a little of the doll's style by trying Shu Uemura's hot pink lip Gloss Lacquer.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2462	Great for the jawbone.	POSITIVE	NONE	GENRE_B	
+2463	Poor Construction.	NEGATIVE	NONE	GENRE_B	
+2464	Final Word: This Show is a real torture!!  	NEGATIVE	NONE	GENRE_B	
+2465	Earlier, we had visited the Anne of Green Gables Museum at Silver Bush, owned by Montgomery's aunt and uncle and the place where Montgomery was married.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2466	I haven't been to a dentist for a year or two.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2467	The battery life is highly unacceptable.	NEGATIVE	NONE	GENRE_B	
+2468	Have been going since 2007 and every meal has been awesome!!	POSITIVE	NONE	GENRE_B	
+2469	Very nice and relaxing late night viewing.  	POSITIVE	NONE	GENRE_B	
+2470	Appealing his detention to the Supreme Court, Sabi wrote:"If I am being punished not only for a crime I did not commit, but also for one I am not going to commit, this is a denial of my fundamental rights."	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2471	"It's important to recognize the ways that we're healthier today" stresses Daniel Swartz, executive director of the Children's Environmental Health Network in Washington, D.C.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2472	"Choosing to undergo open heart surgery when I never felt sick was the hardest decision I've ever made" Schwarzenegger said.	NEGATIVE	ATTENDING_EVENT	GENRE_A	
+2473	They hit before we know what they are: we succumb to them before we understand that they're fleeting and common and nonlife threatening: we indulge in them when life gets boring and we need a reason to comb our hair.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2474	Much less than the jawbone I was going to replace it with.	POSITIVE	NONE	GENRE_B	
+2475	I'm going to go back to the doctors.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+2476	Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.	POSITIVE	NONE	GENRE_B	
+2477	Works well.	POSITIVE	NONE	GENRE_B	
+2478	This case has passed the one year mark and while it shows signs of wear, it is 100% functional.	POSITIVE	NONE	GENRE_B	
+2479	Utterly without merit on any level, this is akin to torture.  	NEGATIVE	NONE	GENRE_B	
+2480	Appears to actually outperform the original battery from China that came with my V325i.	POSITIVE	NONE	GENRE_B	
+2481	With the originality and freshness of the first movie now spent, this remake had little else to offer.  	NEGATIVE	NONE	GENRE_B	
+2482	Lewis Black's considerable talent is wasted here too, as he is at his most incendiary when he is unrestrained, which the PG-13 rating certainly won't allow.  	NEGATIVE	NONE	GENRE_B	
+2483	I've had no accidents, no claims, no nothing.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2484	"I'm unhappy with the way I played and with my physical condition, and I don't feel 100 % healthy" she said.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2485	*He ran away on Oct. 26, leaving a farewell note to his parents that said:"The reason I left is because I could not stand going to the hospital every week."	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2486	I almost fell down a couple of times, I had no power but I was fighting. 	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2487	I wanted to go to the market today but we have to play so many matches.	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2488	"I was detained in June by the  Hamas-run  police during an arrest campaign against Fatah members" said Tariq Muhaisan, one of the detainees, referring to the secular party of Palestinian president Mahmud Abbas.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2489	She knows that I refuse to put my glasses back on until I am out of the chair, because I find it too stressful to see a new haircut all at once.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2490	It is cheap, and it feel and look just as cheap.	NEGATIVE	NONE	GENRE_B	
+2491	It plays louder than any other speaker of this size; the price is so low that most would think the quality is lacking, however, it's not.	POSITIVE	NONE	GENRE_B	
+2492	In addition to the games we've been the Hollywood Bowl for one World Cup concert with Itzhak Perlman, and we're going again on Friday' said Franklin of the Los Angeles area city of Santa Monica.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2493	worthless product.	NEGATIVE	NONE	GENRE_B	
+2494	Mishima is extremely uninteresting.  	NEGATIVE	NONE	GENRE_B	
+2495	"I'm on a fixed income" Stone said.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2496	"I suspect we'll end up going to trial" Beal said.	NEUTRAL	LEGAL_ISSUE	GENRE_A	
+2497	The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.  	POSITIVE	NONE	GENRE_B	
+2498	"I did have a season with Kent but I couldn't make enough money out of the game to support my wife and children" he said, adding that it was in his mind to give up the sport when he returned home at the end of 1990.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2499	It fits comfortably in either ear, the sound is clear and loud, and the charge lasts a couple of days.	POSITIVE	NONE	GENRE_B	
+2500	"That we'll go see these movies is not indicative of anything specific" he says.	NEUTRAL	ATTENDING_EVENT	GENRE_A	
+2501	Years ago, I brushed my teeth with Kolynos toothpaste.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2502	Please let my family know that spiritually and physically I am in extremely good health.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2503	I wish I could enter negative values, admins?  	NEGATIVE	NONE	GENRE_B	
+2504	I can't use this case because the smell is disgusting.	NEGATIVE	NONE	GENRE_B	
+2505	I wasn't really impressed with Strip Steak.	NEGATIVE	NONE	GENRE_B	
+2506	"I lied to him, actually" Spacey said, describing the scramble to replace an actor initially cast opposite Spacey and Peter Facinelli, who play a three-man sales team at a convention.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2507	I think I scraped my tummy.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2508	I would not recommend this place.	NEGATIVE	NONE	GENRE_B	
+2509	Great Pocket PC / phone combination.	POSITIVE	NONE	GENRE_B	
+2510	It was a good thing that the tickets only cost five dollars because I would be mad if I'd have paid $7.50 to see this crap.  	NEGATIVE	NONE	GENRE_B	
+2511	Too politically correct.  	NEGATIVE	NONE	GENRE_B	
+2512	Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.	POSITIVE	NONE	GENRE_B	
+2513	A lot of people, I think, misunderstood me for 23 years.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2514	I liked the patio and the service was outstanding.	POSITIVE	NONE	GENRE_B	
+2515	Now that I saw my escape from the wilderness, I relaxed and pulled off my shirt, hat and hiking boots and sank into the river, letting the cool waters wash over me.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2516	"I wish I had the money to get my hair done in time for work on Monday" she laughed.	NEGATIVE	PERSONAL_CARE	GENRE_A	
+2517	Anyway, we got to our theater and, after the obligatory 27 previews, commercials for the concession stands and gentle reminders to silence all cell phones, the movie finally started.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2518	It is an hour and half waste of time, following a bunch of very pretty high schoolers whine and cry about life.  	NEGATIVE	NONE	GENRE_B	
+2519	This early film from future goremeister Lucio Fulci is a very good addition to the giallo sub-genre.  	POSITIVE	NONE	GENRE_B	
+2520	From Adagio, I crossed Main Street and walked halfway down the block to look in on Pinky's, a breakfast and lunch hangout full of regulars having conversations that have been going on for years.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2521	Not a weekly haunt, but definitely a place to come back to every once in a while.	POSITIVE	NONE	GENRE_B	
+2522	I visited the nearby Sugar River the next afternoon and caught nothing.	NEGATIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2523	"For weeks I have been fighting with my wife over this, she has been in tears every day" Saint-Martin told the South China Morning Post.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2524	This phone is pretty sturdy and I've never had any large problems with it.	POSITIVE	NONE	GENRE_B	
+2525	It is PERFECT for a sit-down family meal or get together with a few friends.	POSITIVE	NONE	GENRE_B	
+2526	If only someone involved with it knew how to string together narrative!  	NEGATIVE	NONE	GENRE_B	
+2527	On a recent weekend birding trip with Eastern Shore Escapes, a company set up to attract tourism dollars to the area, I explored the entire southern tip of the peninsula, with a long boat trip out of Willis Wharf, a side trip to the town of Oyster, a garden tour of historic Eyre Hall and birding at the Eastern Shore of Virginia National Wildlife Refuge, Kiptopeke State Park and even the town dump.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2528	The attention given to every character, and complex psychological portrayals, detailing loyalty, treachery, love, and hope, are tremendous.  	POSITIVE	NONE	GENRE_B	
+2529	"I was shocked to hear the blast and fell down as both of my legs were in pain" victim Ong Poh Choo said.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2530	The service was not up to par, either.	NEGATIVE	NONE	GENRE_B	
+2531	I'd rather eat airline food, seriously.	NEGATIVE	NONE	GENRE_B	
+2532	I'm misquoted.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2533	Now you know why I gave it a 10+!  	POSITIVE	NONE	GENRE_B	
+2534	It took two days of uphill hiking for us to crest a mountain, but once we got there the ground fell away, leaving us breathless at the vistas.	POSITIVE	OUTDOOR_ACTIVITY	GENRE_A	
+2535	Everything about this film is simply incredible.  	POSITIVE	NONE	GENRE_B	
+2536	It is good that I didn't hurt myself but I damaged it enough to not be able to test the next day.	POSITIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2537	I love this place.	POSITIVE	NONE	GENRE_B	
+2538	Still, it makes up for all of this with a super ending that depicts a great sea vessel being taken out by the mighty frost.  	POSITIVE	NONE	GENRE_B	
+2539	I'll go and see the doctor first thing in the morning.	NEUTRAL	GOING_TO_PLACES	GENRE_A	
+2540	I took one swipe and connected fairly well and didn't fall down.	NEGATIVE	 (FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2541	The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... basically, this movie sucks.  	NEGATIVE	NONE	GENRE_B	
+2542	"I was charged with some crimes which I believe I hadn't committed" Denning told TASR agency.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2543	I have cut down on restaurants and cafes. 	NEGATIVE	GOING_TO_PLACES	GENRE_A	
+2544	Some weeks I pay more in extortion than what I earn. 	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2545	"Certainly I owe money" said Kodwa, a social sciences major who is president of the student body.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2546	Having visited all the major sights, I couldn't figure out how to spend my last day in San Marino.	POSITIVE	GOING_TO_PLACES	GENRE_A	
+2547	I miss it and wish they had one in Philadelphia!	POSITIVE	NONE	GENRE_B	
+2548	"I need your help to prove my innocence to the court to release me from this nightmare" Corby said in the letter.	NEGATIVE	LEGAL_ISSUE	GENRE_A	
+2549	Superb Phone on a Great Network.	POSITIVE	NONE	GENRE_B	
+2550	There is just one problem: I lied about my age when I first applied for the job because of age-discrimination fears.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2551	Very well made and fits my Surefire GX2 perfectly.	POSITIVE	NONE	GENRE_B	
+2552	In fact, I liked it better than Interview With a Vampire and I liked this Lestat (Stuart Townsend) better than Cruise's attempt.  	POSITIVE	NONE	GENRE_B	
+2553	I feel good and I feel healthy.	POSITIVE	PERSONAL_CARE	GENRE_A	
+2554	I lied to her and said I didn't know.	NEGATIVE	COMMUNICATION_ISSUE	GENRE_A	
+2555	I fell down while bowling on Wednesday and that hurt my back, you need the whole body to be perfect when you bowl while it is different when you are batting.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2556	The Singapore-based American has been struggling with shin trouble for the past few months but said: "I've now got my health back and I'm still dreaming of winning a tournament."	POSITIVE	PERSONAL_CARE	GENRE_A	
+2557	But I think whenever I defend her, I, risk being misquoted.	NEUTRAL	COMMUNICATION_ISSUE	GENRE_A	
+2558	I recognized what was happening and had a feeling there was going to be a tsunami.	NEGATIVE	(FEAR_OF)_PHYSICAL_PAIN	GENRE_A	
+2559	This is one of the better buffets that I have been to.	POSITIVE	NONE	GENRE_B	
+2560	There's no elegant way to say I was fired.	NEGATIVE	MONEY_ISSUE	GENRE_A	
+2561	"That's why we go pay our bucks for the movies, it's to be taken away and to escape for a while" she said.	POSITIVE	ATTENDING_EVENT	GENRE_A	
+2562	However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.  	POSITIVE	NONE	GENRE_B	
+2563	I'm pretty much on a fixed income. 	NEGATIVE	MONEY_ISSUE	GENRE_A	
