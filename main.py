@@ -154,7 +154,6 @@ def main():
         single_result = []
         single_result.append(e["id"])
         single_result.append(e["text"])
-        # single_result.append(e["truth"]["polarity"]) # TODO printing out TRUTH for now
         single_result.append(polarity_predictions[i])
         single_result.append(e["truth"]["topic"]) # TODO printing out TRUTH for now
         single_result.append(genre_predictions[i])

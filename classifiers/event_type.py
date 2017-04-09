@@ -6,8 +6,7 @@ from sklearn.svm import LinearSVC
 from sklearn.externals import joblib
 import os.path
 
-# implement binary classification
-# GENRES = ['GENRE_A', 'GENRE_B']
+
 MODEL_FILE = 'trained_models/event_model.pkl'
 FEAT_VECTOR_FILE = 'trained_models/event_feat_vector.pkl'
 
@@ -23,7 +22,9 @@ def extract_features(trainingData):
       # feature : does text contain word
       entry_feature_dict["has_word (" + t.lower() + ")"] = 1
       entry_feature_dict["wc (" + t.lower() + ")"] += 1
-
+      
+      #entry_feature_dict["has_num (" + str(t.isdigit()) + ")"] += 1
+      #entry_feature_dict["has_upper (" + str(t[0].isupper()) + ")"] += 1
     feature_list.append(entry_feature_dict)
   return feature_list
 
